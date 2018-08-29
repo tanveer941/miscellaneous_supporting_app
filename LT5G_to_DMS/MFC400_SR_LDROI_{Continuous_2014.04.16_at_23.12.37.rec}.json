@@ -1,0 +1,4106 @@
+{
+    "FUNCTION": "SR", 
+    "FAMILY": "MFC400", 
+    "ROI_QUANTATY_OF_COORDINATES": "4", 
+    "ROI_TRACK_ID": {
+        "24": {
+            "FrameMtLDROITimeStamp": [
+                1620827203
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                194
+            ], 
+            "SR_SIGN_CLASS": "US_Diamond_Pic_RoadNarrowLeftSide_Yellow", 
+            "ROI_COORDINATE_Y_4": [
+                139
+            ], 
+            "LDROI_DATATYPE": [
+                "AAP///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                19
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                19
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                139
+            ], 
+            "ROI_COORDINATE_X_4": [
+                31
+            ], 
+            "ROI_COORDINATE_X_1": [
+                31
+            ], 
+            "ROI_COORDINATE_X_3": [
+                147
+            ], 
+            "ROI_COORDINATE_X_2": [
+                147
+            ]
+        }, 
+        "25": {
+            "FrameMtLDROITimeStamp": [
+                1638909510
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                26
+            ], 
+            "SR_SIGN_CLASS": "US_Diamond_Pic_AnimalCrossingFromLeft_Yellow", 
+            "ROI_COORDINATE_Y_4": [
+                131
+            ], 
+            "LDROI_DATATYPE": [
+                "AAP///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                14
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                14
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                131
+            ], 
+            "ROI_COORDINATE_X_4": [
+                17
+            ], 
+            "ROI_COORDINATE_X_1": [
+                17
+            ], 
+            "ROI_COORDINATE_X_3": [
+                127
+            ], 
+            "ROI_COORDINATE_X_2": [
+                127
+            ]
+        }, 
+        "26": {
+            "FrameMtLDROITimeStamp": [
+                1645398353
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                241
+            ], 
+            "SR_SIGN_CLASS": "US_Diamond_Pic_RoadNarrowLeftSide_Yellow", 
+            "ROI_COORDINATE_Y_4": [
+                165
+            ], 
+            "LDROI_DATATYPE": [
+                "AAX///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                83
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                83
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                165
+            ], 
+            "ROI_COORDINATE_X_4": [
+                49
+            ], 
+            "ROI_COORDINATE_X_1": [
+                49
+            ], 
+            "ROI_COORDINATE_X_3": [
+                128
+            ], 
+            "ROI_COORDINATE_X_2": [
+                128
+            ]
+        }, 
+        "27": {
+            "FrameMtLDROITimeStamp": [
+                1645539689
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                246
+            ], 
+            "SR_SIGN_CLASS": "US_Diamond_Pic_RoadNarrowLeftSide_Yellow", 
+            "ROI_COORDINATE_Y_4": [
+                170
+            ], 
+            "LDROI_DATATYPE": [
+                "AAP///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                72
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                72
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                170
+            ], 
+            "ROI_COORDINATE_X_4": [
+                1067
+            ], 
+            "ROI_COORDINATE_X_1": [
+                1067
+            ], 
+            "ROI_COORDINATE_X_3": [
+                1165
+            ], 
+            "ROI_COORDINATE_X_2": [
+                1165
+            ]
+        }, 
+        "20": {
+            "FrameMtLDROITimeStamp": [
+                1103530105
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                181
+            ], 
+            "SR_SIGN_CLASS": "US_Diamond_Pic_AnimalCrossingFromLeft_Yellow", 
+            "ROI_COORDINATE_Y_4": [
+                174
+            ], 
+            "LDROI_DATATYPE": [
+                "AAX///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                88
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                88
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                174
+            ], 
+            "ROI_COORDINATE_X_4": [
+                73
+            ], 
+            "ROI_COORDINATE_X_1": [
+                73
+            ], 
+            "ROI_COORDINATE_X_3": [
+                155
+            ], 
+            "ROI_COORDINATE_X_2": [
+                155
+            ]
+        }, 
+        "21": {
+            "FrameMtLDROITimeStamp": [
+                1191071118
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                14
+            ], 
+            "SR_SIGN_CLASS": "US_Diamond_Pic_AnimalCrossingFromLeft_Yellow", 
+            "ROI_COORDINATE_Y_4": [
+                171
+            ], 
+            "LDROI_DATATYPE": [
+                "AAP///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                77
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                77
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                171
+            ], 
+            "ROI_COORDINATE_X_4": [
+                43
+            ], 
+            "ROI_COORDINATE_X_1": [
+                43
+            ], 
+            "ROI_COORDINATE_X_3": [
+                141
+            ], 
+            "ROI_COORDINATE_X_2": [
+                141
+            ]
+        }, 
+        "22": {
+            "ROI_COORDINATE_Y_4": [
+                105
+            ], 
+            "FrameMtLDROITimeStamp": [
+                1364660091
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                142
+            ], 
+            "SR_SIGN_CLASS": "US_Diamond_Road_From_Left_Yellow", 
+            "SR_FOR_OTHER_ROAD": [
+                "true"
+            ], 
+            "LDROI_DATATYPE": [
+                "AAP///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                78
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                78
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                105
+            ], 
+            "ROI_COORDINATE_X_4": [
+                3
+            ], 
+            "ROI_COORDINATE_X_1": [
+                3
+            ], 
+            "ROI_COORDINATE_X_3": [
+                28
+            ], 
+            "ROI_COORDINATE_X_2": [
+                28
+            ]
+        }, 
+        "23": {
+            "FrameMtLDROITimeStamp": [
+                1380331674
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                150
+            ], 
+            "SR_SIGN_CLASS": "US_Diamond_Road_From_Left_Yellow", 
+            "ROI_COORDINATE_Y_4": [
+                197
+            ], 
+            "LDROI_DATATYPE": [
+                "AAP///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                117
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                117
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                197
+            ], 
+            "ROI_COORDINATE_X_4": [
+                61
+            ], 
+            "ROI_COORDINATE_X_1": [
+                61
+            ], 
+            "ROI_COORDINATE_X_3": [
+                145
+            ], 
+            "ROI_COORDINATE_X_2": [
+                145
+            ]
+        }, 
+        "28": {
+            "FrameMtLDROITimeStamp": [
+                1650516685
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                155
+            ], 
+            "SR_SIGN_CLASS": "US_Diamond_Pic_RoadNarrowLeftSide_Yellow", 
+            "ROI_COORDINATE_Y_4": [
+                163
+            ], 
+            "LDROI_DATATYPE": [
+                "AAX///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                79
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                79
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                163
+            ], 
+            "ROI_COORDINATE_X_4": [
+                56
+            ], 
+            "ROI_COORDINATE_X_1": [
+                56
+            ], 
+            "ROI_COORDINATE_X_3": [
+                132
+            ], 
+            "ROI_COORDINATE_X_2": [
+                132
+            ]
+        }, 
+        "29": {
+            "FrameMtLDROITimeStamp": [
+                1650663008
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                160
+            ], 
+            "SR_SIGN_CLASS": "US_Diamond_Pic_RoadNarrowLeftSide_Yellow", 
+            "ROI_COORDINATE_Y_4": [
+                172
+            ], 
+            "LDROI_DATATYPE": [
+                "AAP///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                80
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                80
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                172
+            ], 
+            "ROI_COORDINATE_X_4": [
+                1066
+            ], 
+            "ROI_COORDINATE_X_1": [
+                1066
+            ], 
+            "ROI_COORDINATE_X_3": [
+                1161
+            ], 
+            "ROI_COORDINATE_X_2": [
+                1161
+            ]
+        }, 
+        "0": {
+            "FrameMtLDROITimeStamp": [
+                64397358
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                5
+            ], 
+            "SR_SIGN_CLASS": "US_Diamond_Pic_AnimalCrossingFromLeft_Yellow", 
+            "ROI_COORDINATE_Y_4": [
+                203
+            ], 
+            "LDROI_DATATYPE": [
+                "AAX///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                141
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                141
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                203
+            ], 
+            "ROI_COORDINATE_X_4": [
+                38
+            ], 
+            "ROI_COORDINATE_X_1": [
+                38
+            ], 
+            "ROI_COORDINATE_X_3": [
+                102
+            ], 
+            "ROI_COORDINATE_X_2": [
+                102
+            ]
+        }, 
+        "4": {
+            "FrameMtLDROITimeStamp": [
+                302482587
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                225
+            ], 
+            "SR_SIGN_CLASS": "US_Diamond_Road_From_Left_Yellow", 
+            "ROI_COORDINATE_Y_4": [
+                203
+            ], 
+            "LDROI_DATATYPE": [
+                "AAX///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                134
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                134
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                203
+            ], 
+            "ROI_COORDINATE_X_4": [
+                58
+            ], 
+            "ROI_COORDINATE_X_1": [
+                58
+            ], 
+            "ROI_COORDINATE_X_3": [
+                125
+            ], 
+            "ROI_COORDINATE_X_2": [
+                125
+            ]
+        }, 
+        "8": {
+            "FrameMtLDROITimeStamp": [
+                370134252
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                166
+            ], 
+            "SR_SIGN_CLASS": "US_Diamond_Road_From_Left_Yellow", 
+            "ROI_COORDINATE_Y_4": [
+                212
+            ], 
+            "LDROI_DATATYPE": [
+                "AAP///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                157
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                157
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                212
+            ], 
+            "ROI_COORDINATE_X_4": [
+                71
+            ], 
+            "ROI_COORDINATE_X_1": [
+                71
+            ], 
+            "ROI_COORDINATE_X_3": [
+                130
+            ], 
+            "ROI_COORDINATE_X_2": [
+                130
+            ]
+        }, 
+        "59": {
+            "FrameMtLDROITimeStamp": [
+                2663874244
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                244
+            ], 
+            "SR_SIGN_CLASS": "US_Diamond_Road_From_Left_Yellow", 
+            "ROI_COORDINATE_Y_4": [
+                185
+            ], 
+            "LDROI_DATATYPE": [
+                "AAP///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                85
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                85
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                185
+            ], 
+            "ROI_COORDINATE_X_4": [
+                2
+            ], 
+            "ROI_COORDINATE_X_1": [
+                2
+            ], 
+            "ROI_COORDINATE_X_3": [
+                95
+            ], 
+            "ROI_COORDINATE_X_2": [
+                95
+            ]
+        }, 
+        "58": {
+            "ROI_COORDINATE_Y_4": [
+                173
+            ], 
+            "FrameMtLDROITimeStamp": [
+                2653024670
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                140
+            ], 
+            "SR_SIGN_CLASS": "Speed_Limit_040", 
+            "SR_FOR_OTHER_ROAD": [
+                "true"
+            ], 
+            "LDROI_DATATYPE": [
+                "AAP///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                133
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                133
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                173
+            ], 
+            "ROI_COORDINATE_X_4": [
+                59
+            ], 
+            "ROI_COORDINATE_X_1": [
+                59
+            ], 
+            "ROI_COORDINATE_X_3": [
+                96
+            ], 
+            "ROI_COORDINATE_X_2": [
+                96
+            ]
+        }, 
+        "55": {
+            "FrameMtLDROITimeStamp": [
+                2557343843
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                37
+            ], 
+            "SR_SIGN_CLASS": "Speed_Limit_080_Inv", 
+            "ROI_COORDINATE_Y_4": [
+                52
+            ], 
+            "LDROI_DATATYPE": [
+                "AAX///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                11
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                11
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                52
+            ], 
+            "ROI_COORDINATE_X_4": [
+                367
+            ], 
+            "ROI_COORDINATE_X_1": [
+                367
+            ], 
+            "ROI_COORDINATE_X_3": [
+                409
+            ], 
+            "ROI_COORDINATE_X_2": [
+                409
+            ]
+        }, 
+        "54": {
+            "FrameMtLDROITimeStamp": [
+                2534886237
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                60
+            ], 
+            "SR_SIGN_CLASS": "US_Diamond_Bend_Right_Yellow", 
+            "ROI_COORDINATE_Y_4": [
+                127
+            ], 
+            "LDROI_DATATYPE": [
+                "AAP///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                31
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                31
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                127
+            ], 
+            "ROI_COORDINATE_X_4": [
+                24
+            ], 
+            "ROI_COORDINATE_X_1": [
+                24
+            ], 
+            "ROI_COORDINATE_X_3": [
+                120
+            ], 
+            "ROI_COORDINATE_X_2": [
+                120
+            ]
+        }, 
+        "57": {
+            "FrameMtLDROITimeStamp": [
+                2625755497
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                3
+            ], 
+            "SR_SIGN_CLASS": "US_Diamond_Bend_Left_Yellow", 
+            "ROI_COORDINATE_Y_4": [
+                127
+            ], 
+            "LDROI_DATATYPE": [
+                "AAX///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                19
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                19
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                127
+            ], 
+            "ROI_COORDINATE_X_4": [
+                840
+            ], 
+            "ROI_COORDINATE_X_1": [
+                840
+            ], 
+            "ROI_COORDINATE_X_3": [
+                950
+            ], 
+            "ROI_COORDINATE_X_2": [
+                950
+            ]
+        }, 
+        "56": {
+            "FrameMtLDROITimeStamp": [
+                2616859573
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                220
+            ], 
+            "SR_SIGN_CLASS": "US_Diamond_Bend_Left_Yellow", 
+            "ROI_COORDINATE_Y_4": [
+                124
+            ], 
+            "LDROI_DATATYPE": [
+                "AAP///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                3
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                3
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                124
+            ], 
+            "ROI_COORDINATE_X_4": [
+                809
+            ], 
+            "ROI_COORDINATE_X_1": [
+                809
+            ], 
+            "ROI_COORDINATE_X_3": [
+                935
+            ], 
+            "ROI_COORDINATE_X_2": [
+                935
+            ]
+        }, 
+        "51": {
+            "FrameMtLDROITimeStamp": [
+                2460449124
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                150
+            ], 
+            "SR_SIGN_CLASS": "Speed_Limit_080_Inv", 
+            "ROI_COORDINATE_Y_4": [
+                70
+            ], 
+            "LDROI_DATATYPE": [
+                "AAP///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                22
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                22
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                70
+            ], 
+            "ROI_COORDINATE_X_4": [
+                130
+            ], 
+            "ROI_COORDINATE_X_1": [
+                130
+            ], 
+            "ROI_COORDINATE_X_3": [
+                177
+            ], 
+            "ROI_COORDINATE_X_2": [
+                177
+            ]
+        }, 
+        "50": {
+            "FrameMtLDROITimeStamp": [
+                2447188758
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                222
+            ], 
+            "SR_SIGN_CLASS": "US_Diamond_Pic_RightUpwards_Yellow", 
+            "ROI_COORDINATE_Y_4": [
+                159
+            ], 
+            "LDROI_DATATYPE": [
+                "AAP///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                38
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                38
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                159
+            ], 
+            "ROI_COORDINATE_X_4": [
+                766
+            ], 
+            "ROI_COORDINATE_X_1": [
+                766
+            ], 
+            "ROI_COORDINATE_X_3": [
+                891
+            ], 
+            "ROI_COORDINATE_X_2": [
+                891
+            ]
+        }, 
+        "53": {
+            "FrameMtLDROITimeStamp": [
+                2534283476
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                40
+            ], 
+            "SR_SIGN_CLASS": "US_Diamond_Bend_Right_Yellow", 
+            "ROI_COORDINATE_Y_4": [
+                135
+            ], 
+            "LDROI_DATATYPE": [
+                "AAP///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                25
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                25
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                135
+            ], 
+            "ROI_COORDINATE_X_4": [
+                988
+            ], 
+            "ROI_COORDINATE_X_1": [
+                988
+            ], 
+            "ROI_COORDINATE_X_3": [
+                1100
+            ], 
+            "ROI_COORDINATE_X_2": [
+                1100
+            ]
+        }, 
+        "52": {
+            "FrameMtLDROITimeStamp": [
+                2484558878
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                182
+            ], 
+            "SR_SIGN_CLASS": "Speed_Limit_080_Inv", 
+            "ROI_COORDINATE_Y_4": [
+                47
+            ], 
+            "LDROI_DATATYPE": [
+                "AAP///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                0
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                0
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                47
+            ], 
+            "ROI_COORDINATE_X_4": [
+                215
+            ], 
+            "ROI_COORDINATE_X_1": [
+                215
+            ], 
+            "ROI_COORDINATE_X_3": [
+                268
+            ], 
+            "ROI_COORDINATE_X_2": [
+                268
+            ]
+        }, 
+        "88": {
+            "FrameMtLDROITimeStamp": [
+                3098453698
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                72
+            ], 
+            "SR_SIGN_CLASS": "US_Diamond_Pic_RightUpwards_Yellow", 
+            "ROI_COORDINATE_Y_4": [
+                196
+            ], 
+            "LDROI_DATATYPE": [
+                "AAP///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                124
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                124
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                196
+            ], 
+            "ROI_COORDINATE_X_4": [
+                49
+            ], 
+            "ROI_COORDINATE_X_1": [
+                49
+            ], 
+            "ROI_COORDINATE_X_3": [
+                123
+            ], 
+            "ROI_COORDINATE_X_2": [
+                123
+            ]
+        }, 
+        "89": {
+            "FrameMtLDROITimeStamp": [
+                3098755070
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                82
+            ], 
+            "SR_SIGN_CLASS": "US_Diamond_Pic_RightUpwards_Yellow", 
+            "ROI_COORDINATE_Y_4": [
+                174
+            ], 
+            "LDROI_DATATYPE": [
+                "AAP///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                69
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                69
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                174
+            ], 
+            "ROI_COORDINATE_X_4": [
+                829
+            ], 
+            "ROI_COORDINATE_X_1": [
+                829
+            ], 
+            "ROI_COORDINATE_X_3": [
+                931
+            ], 
+            "ROI_COORDINATE_X_2": [
+                931
+            ]
+        }, 
+        "110": {
+            "FrameMtLDROITimeStamp": [
+                3820394955
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                219
+            ], 
+            "SR_SIGN_CLASS": "US_Diamond_Pic_AnimalCrossingFromLeft_Yellow", 
+            "ROI_COORDINATE_Y_4": [
+                200
+            ], 
+            "LDROI_DATATYPE": [
+                "AAX///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                152
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                152
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                200
+            ], 
+            "ROI_COORDINATE_X_4": [
+                46
+            ], 
+            "ROI_COORDINATE_X_1": [
+                46
+            ], 
+            "ROI_COORDINATE_X_3": [
+                93
+            ], 
+            "ROI_COORDINATE_X_2": [
+                93
+            ]
+        }, 
+        "82": {
+            "FrameMtLDROITimeStamp": [
+                2991926505
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                121
+            ], 
+            "SR_SIGN_CLASS": "US_Diamond_Bend_Left_Yellow", 
+            "ROI_COORDINATE_Y_4": [
+                121
+            ], 
+            "LDROI_DATATYPE": [
+                "AAX///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                22
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                22
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                121
+            ], 
+            "ROI_COORDINATE_X_4": [
+                1054
+            ], 
+            "ROI_COORDINATE_X_1": [
+                1054
+            ], 
+            "ROI_COORDINATE_X_3": [
+                1147
+            ], 
+            "ROI_COORDINATE_X_2": [
+                1147
+            ]
+        }, 
+        "83": {
+            "FrameMtLDROITimeStamp": [
+                3029896420
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                101
+            ], 
+            "SR_SIGN_CLASS": "Speed_Limit_080_Inv", 
+            "ROI_COORDINATE_Y_4": [
+                41
+            ], 
+            "LDROI_DATATYPE": [
+                "AAX///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                0
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                0
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                41
+            ], 
+            "ROI_COORDINATE_X_4": [
+                193
+            ], 
+            "ROI_COORDINATE_X_1": [
+                193
+            ], 
+            "ROI_COORDINATE_X_3": [
+                233
+            ], 
+            "ROI_COORDINATE_X_2": [
+                233
+            ]
+        }, 
+        "80": {
+            "FrameMtLDROITimeStamp": [
+                2965246801
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                4
+            ], 
+            "SR_SIGN_CLASS": "US_Diamond_Bend_Right_Yellow", 
+            "ROI_COORDINATE_Y_4": [
+                128
+            ], 
+            "LDROI_DATATYPE": [
+                "AAP///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                19
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                19
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                128
+            ], 
+            "ROI_COORDINATE_X_4": [
+                855
+            ], 
+            "ROI_COORDINATE_X_1": [
+                855
+            ], 
+            "ROI_COORDINATE_X_3": [
+                972
+            ], 
+            "ROI_COORDINATE_X_2": [
+                972
+            ]
+        }, 
+        "81": {
+            "FrameMtLDROITimeStamp": [
+                2990562220
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                76
+            ], 
+            "SR_SIGN_CLASS": "US_Diamond_Bend_Left_Yellow", 
+            "ROI_COORDINATE_Y_4": [
+                212
+            ], 
+            "LDROI_DATATYPE": [
+                "AAP///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                185
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                185
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                212
+            ], 
+            "ROI_COORDINATE_X_4": [
+                556
+            ], 
+            "ROI_COORDINATE_X_1": [
+                556
+            ], 
+            "ROI_COORDINATE_X_3": [
+                584
+            ], 
+            "ROI_COORDINATE_X_2": [
+                584
+            ]
+        }, 
+        "86": {
+            "FrameMtLDROITimeStamp": [
+                3068015084
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                86
+            ], 
+            "SR_SIGN_CLASS": "US_Diamond_Pic_RightDownwards_Yellow", 
+            "ROI_COORDINATE_Y_4": [
+                145
+            ], 
+            "LDROI_DATATYPE": [
+                "AAP///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                6
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                6
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                145
+            ], 
+            "ROI_COORDINATE_X_4": [
+                910
+            ], 
+            "ROI_COORDINATE_X_1": [
+                910
+            ], 
+            "ROI_COORDINATE_X_3": [
+                1043
+            ], 
+            "ROI_COORDINATE_X_2": [
+                1043
+            ]
+        }, 
+        "87": {
+            "FrameMtLDROITimeStamp": [
+                3091073190
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                83
+            ], 
+            "SR_SIGN_CLASS": "Speed_Limit_080_Inv", 
+            "ROI_COORDINATE_Y_4": [
+                58
+            ], 
+            "LDROI_DATATYPE": [
+                "AAX///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                14
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                14
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                58
+            ], 
+            "ROI_COORDINATE_X_4": [
+                144
+            ], 
+            "ROI_COORDINATE_X_1": [
+                144
+            ], 
+            "ROI_COORDINATE_X_3": [
+                189
+            ], 
+            "ROI_COORDINATE_X_2": [
+                189
+            ]
+        }, 
+        "84": {
+            "FrameMtLDROITimeStamp": [
+                3064699987
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                232
+            ], 
+            "SR_SIGN_CLASS": "Speed_Limit_080_Inv", 
+            "ROI_COORDINATE_Y_4": [
+                68
+            ], 
+            "LDROI_DATATYPE": [
+                "AAP///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                23
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                23
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                68
+            ], 
+            "ROI_COORDINATE_X_4": [
+                67
+            ], 
+            "ROI_COORDINATE_X_1": [
+                67
+            ], 
+            "ROI_COORDINATE_X_3": [
+                111
+            ], 
+            "ROI_COORDINATE_X_2": [
+                111
+            ]
+        }, 
+        "85": {
+            "FrameMtLDROITimeStamp": [
+                3067563026
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                71
+            ], 
+            "SR_SIGN_CLASS": "US_Diamond_Pic_RightDownwards_Yellow", 
+            "ROI_COORDINATE_Y_4": [
+                187
+            ], 
+            "LDROI_DATATYPE": [
+                "AAX///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                119
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                119
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                187
+            ], 
+            "ROI_COORDINATE_X_4": [
+                28
+            ], 
+            "ROI_COORDINATE_X_1": [
+                28
+            ], 
+            "ROI_COORDINATE_X_3": [
+                93
+            ], 
+            "ROI_COORDINATE_X_2": [
+                93
+            ]
+        }, 
+        "3": {
+            "ROI_COORDINATE_Y_4": [
+                224
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                56
+            ], 
+            "FrameMtLDROITimeStamp": [
+                289667238
+            ], 
+            "SR_SIGN_CLASS": "Suppl_Restriction_Pic_ArrowRightStraight", 
+            "SR_FOR_OTHER_ROAD": [
+                "true"
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                224
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                212
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                212
+            ], 
+            "LDROI_DATATYPE": [
+                "AAP///////8="
+            ], 
+            "SR_MAIN_ID": [
+                "2"
+            ], 
+            "ROI_COORDINATE_X_2": [
+                62
+            ], 
+            "ROI_COORDINATE_X_1": [
+                35
+            ], 
+            "ROI_COORDINATE_X_3": [
+                62
+            ], 
+            "ROI_COORDINATE_X_4": [
+                35
+            ]
+        }, 
+        "7": {
+            "ROI_COORDINATE_Y_4": [
+                236
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                93
+            ], 
+            "FrameMtLDROITimeStamp": [
+                352505156
+            ], 
+            "SR_SIGN_CLASS": "US_Diamond_Bend_Left_Yellow", 
+            "SR_FOR_OTHER_ROAD": [
+                "true"
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                236
+            ], 
+            "SR_SIGN_ON_MULTI_SIGN_MOUNTING": [
+                "true"
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                206
+            ], 
+            "LDROI_DATATYPE": [
+                "AAX///////8="
+            ], 
+            "ROI_COORDINATE_X_4": [
+                6
+            ], 
+            "ROI_COORDINATE_X_2": [
+                40
+            ], 
+            "ROI_COORDINATE_X_1": [
+                6
+            ], 
+            "ROI_COORDINATE_X_3": [
+                40
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                206
+            ]
+        }, 
+        "108": {
+            "FrameMtLDROITimeStamp": [
+                3507114287
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                64
+            ], 
+            "SR_SIGN_CLASS": "US_Diamond_Bend_Left_Yellow", 
+            "ROI_COORDINATE_Y_4": [
+                218
+            ], 
+            "LDROI_DATATYPE": [
+                "AAP///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                192
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                192
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                218
+            ], 
+            "ROI_COORDINATE_X_4": [
+                54
+            ], 
+            "ROI_COORDINATE_X_1": [
+                54
+            ], 
+            "ROI_COORDINATE_X_3": [
+                82
+            ], 
+            "ROI_COORDINATE_X_2": [
+                82
+            ]
+        }, 
+        "109": {
+            "FrameMtLDROITimeStamp": [
+                3660974086
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                49
+            ], 
+            "SR_SIGN_CLASS": "US_Diamond_Pic_AnimalCrossingFromLeft_Yellow", 
+            "ROI_COORDINATE_Y_4": [
+                162
+            ], 
+            "LDROI_DATATYPE": [
+                "AAX///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                74
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                74
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                162
+            ], 
+            "ROI_COORDINATE_X_4": [
+                20
+            ], 
+            "ROI_COORDINATE_X_1": [
+                20
+            ], 
+            "ROI_COORDINATE_X_3": [
+                102
+            ], 
+            "ROI_COORDINATE_X_2": [
+                102
+            ]
+        }, 
+        "102": {
+            "FrameMtLDROITimeStamp": [
+                3370291358
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                132
+            ], 
+            "SR_SIGN_CLASS": "US_Diamond_Road_From_Left_Yellow", 
+            "ROI_COORDINATE_Y_4": [
+                188
+            ], 
+            "LDROI_DATATYPE": [
+                "AAP///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                130
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                130
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                188
+            ], 
+            "ROI_COORDINATE_X_4": [
+                18
+            ], 
+            "ROI_COORDINATE_X_1": [
+                18
+            ], 
+            "ROI_COORDINATE_X_3": [
+                76
+            ], 
+            "ROI_COORDINATE_X_2": [
+                76
+            ]
+        }, 
+        "103": {
+            "FrameMtLDROITimeStamp": [
+                3377077217
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                101
+            ], 
+            "SR_SIGN_CLASS": "US_Diamond_Bend_Left_Yellow", 
+            "ROI_COORDINATE_Y_4": [
+                137
+            ], 
+            "LDROI_DATATYPE": [
+                "AAX///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                3
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                3
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                137
+            ], 
+            "ROI_COORDINATE_X_4": [
+                841
+            ], 
+            "ROI_COORDINATE_X_1": [
+                841
+            ], 
+            "ROI_COORDINATE_X_3": [
+                977
+            ], 
+            "ROI_COORDINATE_X_2": [
+                977
+            ]
+        }, 
+        "100": {
+            "FrameMtLDROITimeStamp": [
+                3366072150
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                248
+            ], 
+            "SR_SIGN_CLASS": "US_Diamond_Bend_Left_Yellow", 
+            "ROI_COORDINATE_Y_4": [
+                209
+            ], 
+            "LDROI_DATATYPE": [
+                "AAP///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                179
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                179
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                209
+            ], 
+            "ROI_COORDINATE_X_4": [
+                352
+            ], 
+            "ROI_COORDINATE_X_1": [
+                352
+            ], 
+            "ROI_COORDINATE_X_3": [
+                381
+            ], 
+            "ROI_COORDINATE_X_2": [
+                381
+            ]
+        }, 
+        "101": {
+            "FrameMtLDROITimeStamp": [
+                3368784499
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                82
+            ], 
+            "SR_SIGN_CLASS": "Speed_Limit_080_Inv", 
+            "ROI_COORDINATE_Y_4": [
+                71
+            ], 
+            "LDROI_DATATYPE": [
+                "AAP///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                27
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                27
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                71
+            ], 
+            "ROI_COORDINATE_X_4": [
+                111
+            ], 
+            "ROI_COORDINATE_X_1": [
+                111
+            ], 
+            "ROI_COORDINATE_X_3": [
+                154
+            ], 
+            "ROI_COORDINATE_X_2": [
+                154
+            ]
+        }, 
+        "106": {
+            "ROI_COORDINATE_Y_4": [
+                195
+            ], 
+            "FrameMtLDROITimeStamp": [
+                3502448006
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                162
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                165
+            ], 
+            "SR_SIGN_CLASS": "Speed_Limit_040", 
+            "SR_FOR_OTHER_ROAD": [
+                "true"
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                195
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                162
+            ], 
+            "SR_SIGN_EMBEDDED": [
+                "true"
+            ], 
+            "LDROI_DATATYPE": [
+                "AAX///////8="
+            ], 
+            "ROI_COORDINATE_X_4": [
+                14
+            ], 
+            "ROI_COORDINATE_X_1": [
+                14
+            ], 
+            "ROI_COORDINATE_X_3": [
+                46
+            ], 
+            "ROI_COORDINATE_X_2": [
+                46
+            ]
+        }, 
+        "107": {
+            "FrameMtLDROITimeStamp": [
+                3506210170
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                34
+            ], 
+            "SR_SIGN_CLASS": "Speed_Limit_040", 
+            "ROI_COORDINATE_Y_4": [
+                199
+            ], 
+            "LDROI_DATATYPE": [
+                "AAP///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                167
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                167
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                199
+            ], 
+            "ROI_COORDINATE_X_4": [
+                3
+            ], 
+            "ROI_COORDINATE_X_1": [
+                3
+            ], 
+            "ROI_COORDINATE_X_3": [
+                35
+            ], 
+            "ROI_COORDINATE_X_2": [
+                35
+            ]
+        }, 
+        "104": {
+            "FrameMtLDROITimeStamp": [
+                3397414846
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                8
+            ], 
+            "SR_SIGN_CLASS": "US_Diamond_Bend_Right_Yellow", 
+            "ROI_COORDINATE_Y_4": [
+                132
+            ], 
+            "LDROI_DATATYPE": [
+                "AAP///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                36
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                36
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                132
+            ], 
+            "ROI_COORDINATE_X_4": [
+                47
+            ], 
+            "ROI_COORDINATE_X_1": [
+                47
+            ], 
+            "ROI_COORDINATE_X_3": [
+                142
+            ], 
+            "ROI_COORDINATE_X_2": [
+                142
+            ]
+        }, 
+        "105": {
+            "FrameMtLDROITimeStamp": [
+                3423634216
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                110
+            ], 
+            "SR_SIGN_CLASS": "US_Diamond_Pic_AnimalCrossingFromLeft_Yellow", 
+            "ROI_COORDINATE_Y_4": [
+                109
+            ], 
+            "LDROI_DATATYPE": [
+                "AAP///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                13
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                13
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                109
+            ], 
+            "ROI_COORDINATE_X_4": [
+                843
+            ], 
+            "ROI_COORDINATE_X_1": [
+                843
+            ], 
+            "ROI_COORDINATE_X_3": [
+                943
+            ], 
+            "ROI_COORDINATE_X_2": [
+                943
+            ]
+        }, 
+        "39": {
+            "ROI_COORDINATE_Y_4": [
+                203
+            ], 
+            "FrameMtLDROITimeStamp": [
+                2249042976
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                172
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                47
+            ], 
+            "SR_SIGN_CLASS": "Speed_Limit_040", 
+            "SR_FOR_OTHER_ROAD": [
+                "true"
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                203
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                172
+            ], 
+            "SR_SIGN_EMBEDDED": [
+                "true"
+            ], 
+            "LDROI_DATATYPE": [
+                "AAX///////8="
+            ], 
+            "ROI_COORDINATE_X_4": [
+                22
+            ], 
+            "ROI_COORDINATE_X_1": [
+                22
+            ], 
+            "ROI_COORDINATE_X_3": [
+                51
+            ], 
+            "ROI_COORDINATE_X_2": [
+                51
+            ]
+        }, 
+        "38": {
+            "FrameMtLDROITimeStamp": [
+                2167515642
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                158
+            ], 
+            "SR_SIGN_CLASS": "US_Diamond_Pic_RoadNarrowLeftSide_Yellow", 
+            "ROI_COORDINATE_Y_4": [
+                207
+            ], 
+            "LDROI_DATATYPE": [
+                "AAP///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                165
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                165
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                207
+            ], 
+            "ROI_COORDINATE_X_4": [
+                42
+            ], 
+            "ROI_COORDINATE_X_1": [
+                42
+            ], 
+            "ROI_COORDINATE_X_3": [
+                86
+            ], 
+            "ROI_COORDINATE_X_2": [
+                86
+            ]
+        }, 
+        "33": {
+            "ROI_COORDINATE_Y_4": [
+                198
+            ], 
+            "FrameMtLDROITimeStamp": [
+                1356221519
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                173
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                118
+            ], 
+            "SR_SIGN_CLASS": "Speed_Limit_040", 
+            "SR_FOR_OTHER_ROAD": [
+                "true"
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                198
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                173
+            ], 
+            "SR_SIGN_EMBEDDED": [
+                "true"
+            ], 
+            "LDROI_DATATYPE": [
+                "AAP///////8="
+            ], 
+            "ROI_COORDINATE_X_4": [
+                39
+            ], 
+            "ROI_COORDINATE_X_1": [
+                39
+            ], 
+            "ROI_COORDINATE_X_3": [
+                63
+            ], 
+            "ROI_COORDINATE_X_2": [
+                63
+            ]
+        }, 
+        "32": {
+            "ROI_COORDINATE_Y_4": [
+                191
+            ], 
+            "FrameMtLDROITimeStamp": [
+                866650933
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                1
+            ], 
+            "SR_SIGN_CLASS": "Speed_Limit_040", 
+            "SR_FOR_OTHER_ROAD": [
+                "true"
+            ], 
+            "LDROI_DATATYPE": [
+                "AAX///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                167
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                167
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                191
+            ], 
+            "ROI_COORDINATE_X_4": [
+                14
+            ], 
+            "ROI_COORDINATE_X_1": [
+                14
+            ], 
+            "ROI_COORDINATE_X_3": [
+                38
+            ], 
+            "ROI_COORDINATE_X_2": [
+                38
+            ]
+        }, 
+        "31": {
+            "ROI_COORDINATE_Y_4": [
+                210
+            ], 
+            "FrameMtLDROITimeStamp": [
+                349797158
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                186
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                3
+            ], 
+            "SR_SIGN_CLASS": "Speed_Limit_040", 
+            "SR_FOR_OTHER_ROAD": [
+                "true"
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                210
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                186
+            ], 
+            "SR_SIGN_EMBEDDED": [
+                "true"
+            ], 
+            "LDROI_DATATYPE": [
+                "AAX///////8="
+            ], 
+            "ROI_COORDINATE_X_4": [
+                30
+            ], 
+            "ROI_COORDINATE_X_1": [
+                30
+            ], 
+            "ROI_COORDINATE_X_3": [
+                53
+            ], 
+            "ROI_COORDINATE_X_2": [
+                53
+            ]
+        }, 
+        "30": {
+            "ROI_COORDINATE_Y_4": [
+                204
+            ], 
+            "FrameMtLDROITimeStamp": [
+                286352091
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                174
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                202
+            ], 
+            "SR_SIGN_CLASS": "Speed_Limit_040", 
+            "SR_FOR_OTHER_ROAD": [
+                "true"
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                204
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                174
+            ], 
+            "SR_SIGN_EMBEDDED": [
+                "true"
+            ], 
+            "LDROI_DATATYPE": [
+                "AAP///////8="
+            ], 
+            "ROI_COORDINATE_X_4": [
+                0
+            ], 
+            "ROI_COORDINATE_X_1": [
+                0
+            ], 
+            "ROI_COORDINATE_X_3": [
+                27
+            ], 
+            "ROI_COORDINATE_X_2": [
+                27
+            ]
+        }, 
+        "37": {
+            "FrameMtLDROITimeStamp": [
+                2160436517
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                179
+            ], 
+            "SR_SIGN_CLASS": "US_Diamond_Pic_RoadNarrowLeftSide_Yellow", 
+            "ROI_COORDINATE_Y_4": [
+                207
+            ], 
+            "LDROI_DATATYPE": [
+                "AAX///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                160
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                160
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                207
+            ], 
+            "ROI_COORDINATE_X_4": [
+                3
+            ], 
+            "ROI_COORDINATE_X_1": [
+                3
+            ], 
+            "ROI_COORDINATE_X_3": [
+                48
+            ], 
+            "ROI_COORDINATE_X_2": [
+                48
+            ]
+        }, 
+        "36": {
+            "FrameMtLDROITimeStamp": [
+                2114028324
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                175
+            ], 
+            "SR_SIGN_CLASS": "US_Diamond_Pic_RoadNarrowLeftSide_Yellow", 
+            "ROI_COORDINATE_Y_4": [
+                212
+            ], 
+            "LDROI_DATATYPE": [
+                "AAX///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                172
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                172
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                212
+            ], 
+            "ROI_COORDINATE_X_4": [
+                180
+            ], 
+            "ROI_COORDINATE_X_1": [
+                180
+            ], 
+            "ROI_COORDINATE_X_3": [
+                221
+            ], 
+            "ROI_COORDINATE_X_2": [
+                221
+            ]
+        }, 
+        "35": {
+            "FrameMtLDROITimeStamp": [
+                2079514959
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                54
+            ], 
+            "SR_SIGN_CLASS": "US_Diamond_Road_From_Left_Yellow", 
+            "ROI_COORDINATE_Y_4": [
+                107
+            ], 
+            "LDROI_DATATYPE": [
+                "AAP///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                18
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                18
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                107
+            ], 
+            "ROI_COORDINATE_X_4": [
+                1076
+            ], 
+            "ROI_COORDINATE_X_1": [
+                1076
+            ], 
+            "ROI_COORDINATE_X_3": [
+                1155
+            ], 
+            "ROI_COORDINATE_X_2": [
+                1155
+            ]
+        }, 
+        "34": {
+            "FrameMtLDROITimeStamp": [
+                1588739204
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                153
+            ], 
+            "SR_SIGN_CLASS": "US_Diamond_Road_From_Left_Yellow", 
+            "ROI_COORDINATE_Y_4": [
+                189
+            ], 
+            "LDROI_DATATYPE": [
+                "AAX///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                125
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                125
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                189
+            ], 
+            "ROI_COORDINATE_X_4": [
+                41
+            ], 
+            "ROI_COORDINATE_X_1": [
+                41
+            ], 
+            "ROI_COORDINATE_X_3": [
+                107
+            ], 
+            "ROI_COORDINATE_X_2": [
+                107
+            ]
+        }, 
+        "60": {
+            "FrameMtLDROITimeStamp": [
+                2673819663
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                62
+            ], 
+            "SR_SIGN_CLASS": "Speed_Limit_080_Inv", 
+            "ROI_COORDINATE_Y_4": [
+                48
+            ], 
+            "LDROI_DATATYPE": [
+                "AAP///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                7
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                7
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                48
+            ], 
+            "ROI_COORDINATE_X_4": [
+                607
+            ], 
+            "ROI_COORDINATE_X_1": [
+                607
+            ], 
+            "ROI_COORDINATE_X_3": [
+                647
+            ], 
+            "ROI_COORDINATE_X_2": [
+                647
+            ]
+        }, 
+        "61": {
+            "FrameMtLDROITimeStamp": [
+                2693862335
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                215
+            ], 
+            "SR_SIGN_CLASS": "Speed_Limit_080_Inv", 
+            "ROI_COORDINATE_Y_4": [
+                108
+            ], 
+            "LDROI_DATATYPE": [
+                "AAX///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                85
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                85
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                108
+            ], 
+            "ROI_COORDINATE_X_4": [
+                395
+            ], 
+            "ROI_COORDINATE_X_1": [
+                395
+            ], 
+            "ROI_COORDINATE_X_3": [
+                417
+            ], 
+            "ROI_COORDINATE_X_2": [
+                417
+            ]
+        }, 
+        "62": {
+            "FrameMtLDROITimeStamp": [
+                2697627101
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                84
+            ], 
+            "SR_SIGN_CLASS": "US_Diamond_Pic_AnimalCrossingFromLeft_Yellow", 
+            "ROI_COORDINATE_Y_4": [
+                202
+            ], 
+            "LDROI_DATATYPE": [
+                "AAP///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                144
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                144
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                202
+            ], 
+            "ROI_COORDINATE_X_4": [
+                35
+            ], 
+            "ROI_COORDINATE_X_1": [
+                35
+            ], 
+            "ROI_COORDINATE_X_3": [
+                98
+            ], 
+            "ROI_COORDINATE_X_2": [
+                98
+            ]
+        }, 
+        "63": {
+            "FrameMtLDROITimeStamp": [
+                2775683048
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                114
+            ], 
+            "SR_SIGN_CLASS": "Speed_Limit_080_Inv", 
+            "ROI_COORDINATE_Y_4": [
+                46
+            ], 
+            "LDROI_DATATYPE": [
+                "AAP///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                5
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                5
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                46
+            ], 
+            "ROI_COORDINATE_X_4": [
+                569
+            ], 
+            "ROI_COORDINATE_X_1": [
+                569
+            ], 
+            "ROI_COORDINATE_X_3": [
+                610
+            ], 
+            "ROI_COORDINATE_X_2": [
+                610
+            ]
+        }, 
+        "64": {
+            "FrameMtLDROITimeStamp": [
+                2857809924
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                23
+            ], 
+            "SR_SIGN_CLASS": "Speed_Limit_080_Inv", 
+            "ROI_COORDINATE_Y_4": [
+                64
+            ], 
+            "LDROI_DATATYPE": [
+                "AAX///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                21
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                21
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                64
+            ], 
+            "ROI_COORDINATE_X_4": [
+                538
+            ], 
+            "ROI_COORDINATE_X_1": [
+                538
+            ], 
+            "ROI_COORDINATE_X_3": [
+                582
+            ], 
+            "ROI_COORDINATE_X_2": [
+                582
+            ]
+        }, 
+        "65": {
+            "FrameMtLDROITimeStamp": [
+                2876497065
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                131
+            ], 
+            "SR_SIGN_CLASS": "US_Diamond_Pic_WindFromLeft_Yellow", 
+            "ROI_COORDINATE_Y_4": [
+                182
+            ], 
+            "LDROI_DATATYPE": [
+                "AAX///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                117
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                117
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                182
+            ], 
+            "ROI_COORDINATE_X_4": [
+                56
+            ], 
+            "ROI_COORDINATE_X_1": [
+                56
+            ], 
+            "ROI_COORDINATE_X_3": [
+                116
+            ], 
+            "ROI_COORDINATE_X_2": [
+                116
+            ]
+        }, 
+        "66": {
+            "FrameMtLDROITimeStamp": [
+                2884779152
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                150
+            ], 
+            "SR_SIGN_CLASS": "US_Diamond_Bend_Left_Yellow", 
+            "ROI_COORDINATE_Y_4": [
+                97
+            ], 
+            "LDROI_DATATYPE": [
+                "AAP///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                11
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                11
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                97
+            ], 
+            "ROI_COORDINATE_X_4": [
+                755
+            ], 
+            "ROI_COORDINATE_X_1": [
+                755
+            ], 
+            "ROI_COORDINATE_X_3": [
+                846
+            ], 
+            "ROI_COORDINATE_X_2": [
+                846
+            ]
+        }, 
+        "67": {
+            "FrameMtLDROITimeStamp": [
+                2900752297
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                168
+            ], 
+            "SR_SIGN_CLASS": "US_Diamond_Pic_ExclamationMark_Yellow", 
+            "ROI_COORDINATE_Y_4": [
+                94
+            ], 
+            "LDROI_DATATYPE": [
+                "AAP///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                39
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                39
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                94
+            ], 
+            "ROI_COORDINATE_X_4": [
+                43
+            ], 
+            "ROI_COORDINATE_X_1": [
+                43
+            ], 
+            "ROI_COORDINATE_X_3": [
+                103
+            ], 
+            "ROI_COORDINATE_X_2": [
+                103
+            ]
+        }, 
+        "68": {
+            "FrameMtLDROITimeStamp": [
+                2901957812
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                208
+            ], 
+            "SR_SIGN_CLASS": "US_Diamond_Bend_Right_Yellow", 
+            "ROI_COORDINATE_Y_4": [
+                172
+            ], 
+            "LDROI_DATATYPE": [
+                "AAP///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                103
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                103
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                172
+            ], 
+            "ROI_COORDINATE_X_4": [
+                52
+            ], 
+            "ROI_COORDINATE_X_1": [
+                52
+            ], 
+            "ROI_COORDINATE_X_3": [
+                122
+            ], 
+            "ROI_COORDINATE_X_2": [
+                122
+            ]
+        }, 
+        "69": {
+            "FrameMtLDROITimeStamp": [
+                2903766082
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                12
+            ], 
+            "SR_SIGN_CLASS": "US_Diamond_Bend_Right_Yellow", 
+            "ROI_COORDINATE_Y_4": [
+                141
+            ], 
+            "LDROI_DATATYPE": [
+                "AAP///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                29
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                29
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                141
+            ], 
+            "ROI_COORDINATE_X_4": [
+                835
+            ], 
+            "ROI_COORDINATE_X_1": [
+                835
+            ], 
+            "ROI_COORDINATE_X_3": [
+                949
+            ], 
+            "ROI_COORDINATE_X_2": [
+                949
+            ]
+        }, 
+        "2": {
+            "ROI_COORDINATE_Y_4": [
+                215
+            ], 
+            "FrameMtLDROITimeStamp": [
+                289667238
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                56
+            ], 
+            "SR_SIGN_CLASS": "Speed_Limit_040", 
+            "SR_FOR_OTHER_ROAD": [
+                "true"
+            ], 
+            "LDROI_DATATYPE": [
+                "AAP///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                191
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                191
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                215
+            ], 
+            "ROI_COORDINATE_X_4": [
+                36
+            ], 
+            "ROI_COORDINATE_X_1": [
+                36
+            ], 
+            "ROI_COORDINATE_X_3": [
+                64
+            ], 
+            "ROI_COORDINATE_X_2": [
+                64
+            ]
+        }, 
+        "6": {
+            "ROI_COORDINATE_Y_4": [
+                208
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                93
+            ], 
+            "FrameMtLDROITimeStamp": [
+                352505156
+            ], 
+            "SR_SIGN_CLASS": "Suppl_Restriction_Pic_ArrowRightStraight", 
+            "SR_FOR_OTHER_ROAD": [
+                "true"
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                208
+            ], 
+            "SR_SIGN_ON_MULTI_SIGN_MOUNTING": [
+                "true"
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                196
+            ], 
+            "LDROI_DATATYPE": [
+                "AAX///////8="
+            ], 
+            "ROI_COORDINATE_X_4": [
+                8
+            ], 
+            "SR_MAIN_ID": [
+                "5"
+            ], 
+            "ROI_COORDINATE_X_2": [
+                36
+            ], 
+            "ROI_COORDINATE_X_1": [
+                8
+            ], 
+            "ROI_COORDINATE_X_3": [
+                36
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                196
+            ]
+        }, 
+        "99": {
+            "FrameMtLDROITimeStamp": [
+                3341510951
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                201
+            ], 
+            "SR_SIGN_CLASS": "Speed_Limit_080_Inv", 
+            "ROI_COORDINATE_Y_4": [
+                70
+            ], 
+            "LDROI_DATATYPE": [
+                "AAX///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                27
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                27
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                70
+            ], 
+            "ROI_COORDINATE_X_4": [
+                172
+            ], 
+            "ROI_COORDINATE_X_1": [
+                172
+            ], 
+            "ROI_COORDINATE_X_3": [
+                216
+            ], 
+            "ROI_COORDINATE_X_2": [
+                216
+            ]
+        }, 
+        "98": {
+            "FrameMtLDROITimeStamp": [
+                3288619528
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                238
+            ], 
+            "SR_SIGN_CLASS": "US_Diamond_Road_Narrow_Left_Side_Yellow", 
+            "ROI_COORDINATE_Y_4": [
+                149
+            ], 
+            "LDROI_DATATYPE": [
+                "AAP///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                28
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                28
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                149
+            ], 
+            "ROI_COORDINATE_X_4": [
+                874
+            ], 
+            "ROI_COORDINATE_X_1": [
+                874
+            ], 
+            "ROI_COORDINATE_X_3": [
+                1000
+            ], 
+            "ROI_COORDINATE_X_2": [
+                1000
+            ]
+        }, 
+        "91": {
+            "FrameMtLDROITimeStamp": [
+                3204092754
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                249
+            ], 
+            "SR_SIGN_CLASS": "US_Diamond_Road_From_Left_Yellow", 
+            "ROI_COORDINATE_Y_4": [
+                219
+            ], 
+            "LDROI_DATATYPE": [
+                "AAX///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                145
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                145
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                219
+            ], 
+            "ROI_COORDINATE_X_4": [
+                12
+            ], 
+            "ROI_COORDINATE_X_1": [
+                12
+            ], 
+            "ROI_COORDINATE_X_3": [
+                86
+            ], 
+            "ROI_COORDINATE_X_2": [
+                86
+            ]
+        }, 
+        "90": {
+            "ROI_COORDINATE_Y_4": [
+                168
+            ], 
+            "FrameMtLDROITimeStamp": [
+                3197303778
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                133
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                24
+            ], 
+            "SR_SIGN_CLASS": "Speed_Limit_040", 
+            "SR_FOR_OTHER_ROAD": [
+                "true"
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                168
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                133
+            ], 
+            "SR_SIGN_EMBEDDED": [
+                "true"
+            ], 
+            "LDROI_DATATYPE": [
+                "AAP///////8="
+            ], 
+            "ROI_COORDINATE_X_4": [
+                17
+            ], 
+            "ROI_COORDINATE_X_1": [
+                17
+            ], 
+            "ROI_COORDINATE_X_3": [
+                54
+            ], 
+            "ROI_COORDINATE_X_2": [
+                54
+            ]
+        }, 
+        "93": {
+            "ROI_COORDINATE_Y_4": [
+                233
+            ], 
+            "FrameMtLDROITimeStamp": [
+                3235879411
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                24
+            ], 
+            "SR_SIGN_CLASS": "Do_Not_Enter", 
+            "SR_FOR_OTHER_ROAD": [
+                "true"
+            ], 
+            "LDROI_DATATYPE": [
+                "AAP///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                207
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                207
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                233
+            ], 
+            "ROI_COORDINATE_X_4": [
+                960
+            ], 
+            "ROI_COORDINATE_X_1": [
+                960
+            ], 
+            "ROI_COORDINATE_X_3": [
+                984
+            ], 
+            "ROI_COORDINATE_X_2": [
+                984
+            ]
+        }, 
+        "92": {
+            "FrameMtLDROITimeStamp": [
+                3229101034
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                55
+            ], 
+            "SR_SIGN_CLASS": "Speed_Limit_080_Inv", 
+            "ROI_COORDINATE_Y_4": [
+                79
+            ], 
+            "LDROI_DATATYPE": [
+                "AAX///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                37
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                37
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                79
+            ], 
+            "ROI_COORDINATE_X_4": [
+                107
+            ], 
+            "ROI_COORDINATE_X_1": [
+                107
+            ], 
+            "ROI_COORDINATE_X_3": [
+                147
+            ], 
+            "ROI_COORDINATE_X_2": [
+                147
+            ]
+        }, 
+        "95": {
+            "FrameMtLDROITimeStamp": [
+                3259841612
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                51
+            ], 
+            "SR_SIGN_CLASS": "US_Diamond_Pic_AnimalCrossingFromLeft_Yellow", 
+            "ROI_COORDINATE_Y_4": [
+                86
+            ], 
+            "LDROI_DATATYPE": [
+                "AAX///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                2
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                2
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                86
+            ], 
+            "ROI_COORDINATE_X_4": [
+                778
+            ], 
+            "ROI_COORDINATE_X_1": [
+                778
+            ], 
+            "ROI_COORDINATE_X_3": [
+                873
+            ], 
+            "ROI_COORDINATE_X_2": [
+                873
+            ]
+        }, 
+        "94": {
+            "FrameMtLDROITimeStamp": [
+                3252454878
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                62
+            ], 
+            "SR_SIGN_CLASS": "US_Diamond_Road_From_Left_Yellow", 
+            "ROI_COORDINATE_Y_4": [
+                209
+            ], 
+            "LDROI_DATATYPE": [
+                "AAP///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                158
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                158
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                209
+            ], 
+            "ROI_COORDINATE_X_4": [
+                42
+            ], 
+            "ROI_COORDINATE_X_1": [
+                42
+            ], 
+            "ROI_COORDINATE_X_3": [
+                98
+            ], 
+            "ROI_COORDINATE_X_2": [
+                98
+            ]
+        }, 
+        "97": {
+            "FrameMtLDROITimeStamp": [
+                3287715412
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                208
+            ], 
+            "SR_SIGN_CLASS": "US_Diamond_Pic_RoadNarrowLeftSide_Yellow", 
+            "ROI_COORDINATE_Y_4": [
+                209
+            ], 
+            "LDROI_DATATYPE": [
+                "AAP///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                161
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                161
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                209
+            ], 
+            "ROI_COORDINATE_X_4": [
+                23
+            ], 
+            "ROI_COORDINATE_X_1": [
+                23
+            ], 
+            "ROI_COORDINATE_X_3": [
+                75
+            ], 
+            "ROI_COORDINATE_X_2": [
+                75
+            ]
+        }, 
+        "96": {
+            "FrameMtLDROITimeStamp": [
+                3273100735
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                235
+            ], 
+            "SR_SIGN_CLASS": "Speed_Limit_080_Inv", 
+            "ROI_COORDINATE_Y_4": [
+                44
+            ], 
+            "LDROI_DATATYPE": [
+                "AAX///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                0
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                0
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                44
+            ], 
+            "ROI_COORDINATE_X_4": [
+                29
+            ], 
+            "ROI_COORDINATE_X_1": [
+                29
+            ], 
+            "ROI_COORDINATE_X_3": [
+                74
+            ], 
+            "ROI_COORDINATE_X_2": [
+                74
+            ]
+        }, 
+        "11": {
+            "ROI_COORDINATE_Y_4": [
+                165
+            ], 
+            "FrameMtLDROITimeStamp": [
+                835908897
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                5
+            ], 
+            "SR_SIGN_CLASS": "Speed_Limit_040", 
+            "SR_FOR_OTHER_ROAD": [
+                "true"
+            ], 
+            "LDROI_DATATYPE": [
+                "AAX///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                136
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                136
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                165
+            ], 
+            "ROI_COORDINATE_X_4": [
+                15
+            ], 
+            "ROI_COORDINATE_X_1": [
+                15
+            ], 
+            "ROI_COORDINATE_X_3": [
+                46
+            ], 
+            "ROI_COORDINATE_X_2": [
+                46
+            ]
+        }, 
+        "10": {
+            "ROI_COORDINATE_Y_4": [
+                147
+            ], 
+            "FrameMtLDROITimeStamp": [
+                832291153
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                114
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                141
+            ], 
+            "SR_SIGN_CLASS": "Speed_Limit_040", 
+            "SR_FOR_OTHER_ROAD": [
+                "true"
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                147
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                114
+            ], 
+            "SR_SIGN_EMBEDDED": [
+                "true"
+            ], 
+            "LDROI_DATATYPE": [
+                "AAX///////8="
+            ], 
+            "ROI_COORDINATE_X_4": [
+                29
+            ], 
+            "ROI_COORDINATE_X_1": [
+                29
+            ], 
+            "ROI_COORDINATE_X_3": [
+                61
+            ], 
+            "ROI_COORDINATE_X_2": [
+                61
+            ]
+        }, 
+        "13": {
+            "FrameMtLDROITimeStamp": [
+                864538825
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                187
+            ], 
+            "SR_SIGN_CLASS": "US_Diamond_Road_From_Left_Yellow", 
+            "ROI_COORDINATE_Y_4": [
+                204
+            ], 
+            "LDROI_DATATYPE": [
+                "AAX///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                139
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                139
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                204
+            ], 
+            "ROI_COORDINATE_X_4": [
+                40
+            ], 
+            "ROI_COORDINATE_X_1": [
+                40
+            ], 
+            "ROI_COORDINATE_X_3": [
+                105
+            ], 
+            "ROI_COORDINATE_X_2": [
+                105
+            ]
+        }, 
+        "12": {
+            "FrameMtLDROITimeStamp": [
+                835908897
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                5
+            ], 
+            "SR_SIGN_CLASS": "Suppl_Restriction_Pic_ArrowRightStraight", 
+            "ROI_COORDINATE_Y_4": [
+                174
+            ], 
+            "LDROI_DATATYPE": [
+                "AAX///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                163
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                163
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                174
+            ], 
+            "SR_MAIN_ID": [
+                "11"
+            ], 
+            "ROI_COORDINATE_X_2": [
+                46
+            ], 
+            "ROI_COORDINATE_X_1": [
+                14
+            ], 
+            "ROI_COORDINATE_X_3": [
+                46
+            ], 
+            "ROI_COORDINATE_X_4": [
+                14
+            ]
+        }, 
+        "15": {
+            "FrameMtLDROITimeStamp": [
+                903260918
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                192
+            ], 
+            "SR_SIGN_CLASS": "Suppl_Explanation_Tex_XXm", 
+            "ROI_COORDINATE_Y_4": [
+                201
+            ], 
+            "LDROI_DATATYPE": [
+                "AAP///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                172
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                172
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                201
+            ], 
+            "SR_MAIN_ID": [
+                "14"
+            ], 
+            "ROI_COORDINATE_X_2": [
+                80
+            ], 
+            "ROI_COORDINATE_X_1": [
+                12
+            ], 
+            "ROI_COORDINATE_X_3": [
+                80
+            ], 
+            "ROI_COORDINATE_X_4": [
+                12
+            ]
+        }, 
+        "14": {
+            "FrameMtLDROITimeStamp": [
+                903260918
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                192
+            ], 
+            "SR_SIGN_CLASS": "US_Diamond_Pic_RoadNarrowLeftSide_Yellow", 
+            "ROI_COORDINATE_Y_4": [
+                182
+            ], 
+            "LDROI_DATATYPE": [
+                "AAP///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                110
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                110
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                182
+            ], 
+            "ROI_COORDINATE_X_4": [
+                13
+            ], 
+            "ROI_COORDINATE_X_1": [
+                13
+            ], 
+            "ROI_COORDINATE_X_3": [
+                85
+            ], 
+            "ROI_COORDINATE_X_2": [
+                85
+            ]
+        }, 
+        "17": {
+            "FrameMtLDROITimeStamp": [
+                922402442
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                59
+            ], 
+            "SR_SIGN_CLASS": "US_Diamond_Pic_RoadNarrowLeftSide_Yellow", 
+            "ROI_COORDINATE_Y_4": [
+                137
+            ], 
+            "LDROI_DATATYPE": [
+                "AAX///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                13
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                13
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                137
+            ], 
+            "ROI_COORDINATE_X_4": [
+                882
+            ], 
+            "ROI_COORDINATE_X_1": [
+                882
+            ], 
+            "ROI_COORDINATE_X_3": [
+                1010
+            ], 
+            "ROI_COORDINATE_X_2": [
+                1010
+            ]
+        }, 
+        "16": {
+            "FrameMtLDROITimeStamp": [
+                921644650
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                34
+            ], 
+            "SR_SIGN_CLASS": "US_Diamond_Pic_RoadNarrowLeftSide_Yellow", 
+            "ROI_COORDINATE_Y_4": [
+                149
+            ], 
+            "LDROI_DATATYPE": [
+                "AAP///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                83
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                83
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                149
+            ], 
+            "ROI_COORDINATE_X_4": [
+                18
+            ], 
+            "ROI_COORDINATE_X_1": [
+                18
+            ], 
+            "ROI_COORDINATE_X_3": [
+                84
+            ], 
+            "ROI_COORDINATE_X_2": [
+                84
+            ]
+        }, 
+        "19": {
+            "FrameMtLDROITimeStamp": [
+                928730639
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                13
+            ], 
+            "SR_SIGN_CLASS": "US_Diamond_Pic_RoadNarrowLeftSide_Yellow", 
+            "ROI_COORDINATE_Y_4": [
+                146
+            ], 
+            "LDROI_DATATYPE": [
+                "AAX///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                30
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                30
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                146
+            ], 
+            "ROI_COORDINATE_X_4": [
+                857
+            ], 
+            "ROI_COORDINATE_X_1": [
+                857
+            ], 
+            "ROI_COORDINATE_X_3": [
+                966
+            ], 
+            "ROI_COORDINATE_X_2": [
+                966
+            ]
+        }, 
+        "18": {
+            "FrameMtLDROITimeStamp": [
+                928132258
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                249
+            ], 
+            "SR_SIGN_CLASS": "US_Diamond_Pic_RoadNarrowLeftSide_Yellow", 
+            "ROI_COORDINATE_Y_4": [
+                200
+            ], 
+            "LDROI_DATATYPE": [
+                "AAX///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                135
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                135
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                200
+            ], 
+            "ROI_COORDINATE_X_4": [
+                32
+            ], 
+            "ROI_COORDINATE_X_1": [
+                32
+            ], 
+            "ROI_COORDINATE_X_3": [
+                92
+            ], 
+            "ROI_COORDINATE_X_2": [
+                92
+            ]
+        }, 
+        "48": {
+            "FrameMtLDROITimeStamp": [
+                2430465736
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                179
+            ], 
+            "SR_SIGN_CLASS": "Speed_Limit_080_Inv", 
+            "ROI_COORDINATE_Y_4": [
+                65
+            ], 
+            "LDROI_DATATYPE": [
+                "AAX///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                22
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                22
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                65
+            ], 
+            "ROI_COORDINATE_X_4": [
+                39
+            ], 
+            "ROI_COORDINATE_X_1": [
+                39
+            ], 
+            "ROI_COORDINATE_X_3": [
+                78
+            ], 
+            "ROI_COORDINATE_X_2": [
+                78
+            ]
+        }, 
+        "49": {
+            "FrameMtLDROITimeStamp": [
+                2446742931
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                207
+            ], 
+            "SR_SIGN_CLASS": "US_Diamond_Pic_RightUpwards_Yellow", 
+            "ROI_COORDINATE_Y_4": [
+                192
+            ], 
+            "LDROI_DATATYPE": [
+                "AAX///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                118
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                118
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                192
+            ], 
+            "ROI_COORDINATE_X_4": [
+                36
+            ], 
+            "ROI_COORDINATE_X_1": [
+                36
+            ], 
+            "ROI_COORDINATE_X_3": [
+                100
+            ], 
+            "ROI_COORDINATE_X_2": [
+                100
+            ]
+        }, 
+        "46": {
+            "FrameMtLDROITimeStamp": [
+                2420224700
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                95
+            ], 
+            "SR_SIGN_CLASS": "US_Diamond_Pic_RightUpwards_Yellow", 
+            "ROI_COORDINATE_Y_4": [
+                205
+            ], 
+            "LDROI_DATATYPE": [
+                "AAX///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                167
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                167
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                205
+            ], 
+            "ROI_COORDINATE_X_4": [
+                303
+            ], 
+            "ROI_COORDINATE_X_1": [
+                303
+            ], 
+            "ROI_COORDINATE_X_3": [
+                341
+            ], 
+            "ROI_COORDINATE_X_2": [
+                341
+            ]
+        }, 
+        "47": {
+            "FrameMtLDROITimeStamp": [
+                2422174892
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                160
+            ], 
+            "SR_SIGN_CLASS": "US_Diamond_Pic_RightUpwards_Yellow", 
+            "ROI_COORDINATE_Y_4": [
+                161
+            ], 
+            "LDROI_DATATYPE": [
+                "AAP///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                33
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                33
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                161
+            ], 
+            "ROI_COORDINATE_X_4": [
+                783
+            ], 
+            "ROI_COORDINATE_X_1": [
+                783
+            ], 
+            "ROI_COORDINATE_X_3": [
+                907
+            ], 
+            "ROI_COORDINATE_X_2": [
+                907
+            ]
+        }, 
+        "44": {
+            "FrameMtLDROITimeStamp": [
+                2374256759
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                106
+            ], 
+            "SR_SIGN_CLASS": "US_Diamond_Road_From_Left_Yellow", 
+            "ROI_COORDINATE_Y_4": [
+                224
+            ], 
+            "LDROI_DATATYPE": [
+                "AAP///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                155
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                155
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                224
+            ], 
+            "ROI_COORDINATE_X_4": [
+                61
+            ], 
+            "ROI_COORDINATE_X_1": [
+                61
+            ], 
+            "ROI_COORDINATE_X_3": [
+                131
+            ], 
+            "ROI_COORDINATE_X_2": [
+                131
+            ]
+        }, 
+        "45": {
+            "FrameMtLDROITimeStamp": [
+                2403188463
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                42
+            ], 
+            "SR_SIGN_CLASS": "Speed_Limit_080_Inv", 
+            "ROI_COORDINATE_Y_4": [
+                68
+            ], 
+            "LDROI_DATATYPE": [
+                "AAP///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                24
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                24
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                68
+            ], 
+            "ROI_COORDINATE_X_4": [
+                116
+            ], 
+            "ROI_COORDINATE_X_1": [
+                116
+            ], 
+            "ROI_COORDINATE_X_3": [
+                160
+            ], 
+            "ROI_COORDINATE_X_2": [
+                160
+            ]
+        }, 
+        "42": {
+            "FrameMtLDROITimeStamp": [
+                2282036964
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                118
+            ], 
+            "SR_SIGN_CLASS": "US_Diamond_Road_From_Left_Yellow", 
+            "ROI_COORDINATE_Y_4": [
+                193
+            ], 
+            "LDROI_DATATYPE": [
+                "AAP///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                126
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                126
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                193
+            ], 
+            "ROI_COORDINATE_X_4": [
+                12
+            ], 
+            "ROI_COORDINATE_X_1": [
+                12
+            ], 
+            "ROI_COORDINATE_X_3": [
+                82
+            ], 
+            "ROI_COORDINATE_X_2": [
+                82
+            ]
+        }, 
+        "43": {
+            "ROI_COORDINATE_Y_4": [
+                209
+            ], 
+            "FrameMtLDROITimeStamp": [
+                2353010664
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                169
+            ], 
+            "SR_SIGN_CLASS": "Speed_Limit_040", 
+            "SR_FOR_OTHER_ROAD": [
+                "true"
+            ], 
+            "LDROI_DATATYPE": [
+                "AAX///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                177
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                177
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                209
+            ], 
+            "ROI_COORDINATE_X_4": [
+                10
+            ], 
+            "ROI_COORDINATE_X_1": [
+                10
+            ], 
+            "ROI_COORDINATE_X_3": [
+                39
+            ], 
+            "ROI_COORDINATE_X_2": [
+                39
+            ]
+        }, 
+        "40": {
+            "ROI_COORDINATE_Y_4": [
+                222
+            ], 
+            "FrameMtLDROITimeStamp": [
+                2252353081
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                157
+            ], 
+            "SR_SIGN_CLASS": "Speed_Limit_040", 
+            "SR_FOR_OTHER_ROAD": [
+                "true"
+            ], 
+            "LDROI_DATATYPE": [
+                "AAX///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                196
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                196
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                222
+            ], 
+            "ROI_COORDINATE_X_4": [
+                23
+            ], 
+            "ROI_COORDINATE_X_1": [
+                23
+            ], 
+            "ROI_COORDINATE_X_3": [
+                52
+            ], 
+            "ROI_COORDINATE_X_2": [
+                52
+            ]
+        }, 
+        "41": {
+            "FrameMtLDROITimeStamp": [
+                2260036816
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                156
+            ], 
+            "SR_SIGN_CLASS": "US_Diamond_Road_From_Left_Yellow", 
+            "ROI_COORDINATE_Y_4": [
+                196
+            ], 
+            "LDROI_DATATYPE": [
+                "AAP///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                124
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                124
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                196
+            ], 
+            "ROI_COORDINATE_X_4": [
+                14
+            ], 
+            "ROI_COORDINATE_X_1": [
+                14
+            ], 
+            "ROI_COORDINATE_X_3": [
+                87
+            ], 
+            "ROI_COORDINATE_X_2": [
+                87
+            ]
+        }, 
+        "1": {
+            "FrameMtLDROITimeStamp": [
+                270077691
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                174
+            ], 
+            "SR_SIGN_CLASS": "US_Diamond_Pic_AnimalCrossingFromLeft_Yellow", 
+            "ROI_COORDINATE_Y_4": [
+                204
+            ], 
+            "LDROI_DATATYPE": [
+                "AAP///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                143
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                143
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                204
+            ], 
+            "ROI_COORDINATE_X_4": [
+                260
+            ], 
+            "ROI_COORDINATE_X_1": [
+                260
+            ], 
+            "ROI_COORDINATE_X_3": [
+                321
+            ], 
+            "ROI_COORDINATE_X_2": [
+                321
+            ]
+        }, 
+        "5": {
+            "ROI_COORDINATE_Y_4": [
+                201
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                93
+            ], 
+            "FrameMtLDROITimeStamp": [
+                352505156
+            ], 
+            "SR_SIGN_CLASS": "Speed_Limit_060", 
+            "SR_FOR_OTHER_ROAD": [
+                "true"
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                201
+            ], 
+            "SR_SIGN_ON_MULTI_SIGN_MOUNTING": [
+                "true"
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                174
+            ], 
+            "LDROI_DATATYPE": [
+                "AAX///////8="
+            ], 
+            "ROI_COORDINATE_X_4": [
+                7
+            ], 
+            "ROI_COORDINATE_X_2": [
+                38
+            ], 
+            "ROI_COORDINATE_X_1": [
+                7
+            ], 
+            "ROI_COORDINATE_X_3": [
+                38
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                174
+            ]
+        }, 
+        "9": {
+            "FrameMtLDROITimeStamp": [
+                663971384
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                188
+            ], 
+            "SR_SIGN_CLASS": "US_Diamond_Pic_WindFromLeft_Yellow", 
+            "ROI_COORDINATE_Y_4": [
+                212
+            ], 
+            "LDROI_DATATYPE": [
+                "AAP///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                174
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                174
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                212
+            ], 
+            "ROI_COORDINATE_X_4": [
+                336
+            ], 
+            "ROI_COORDINATE_X_1": [
+                336
+            ], 
+            "ROI_COORDINATE_X_3": [
+                376
+            ], 
+            "ROI_COORDINATE_X_2": [
+                376
+            ]
+        }, 
+        "77": {
+            "FrameMtLDROITimeStamp": [
+                2960424809
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                100
+            ], 
+            "SR_SIGN_CLASS": "US_Diamond_Pic_ExclamationMark_Yellow", 
+            "ROI_COORDINATE_Y_4": [
+                185
+            ], 
+            "LDROI_DATATYPE": [
+                "AAP///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                160
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                160
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                185
+            ], 
+            "ROI_COORDINATE_X_4": [
+                302
+            ], 
+            "ROI_COORDINATE_X_1": [
+                302
+            ], 
+            "ROI_COORDINATE_X_3": [
+                327
+            ], 
+            "ROI_COORDINATE_X_2": [
+                327
+            ]
+        }, 
+        "76": {
+            "FrameMtLDROITimeStamp": [
+                2960123434
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                90
+            ], 
+            "SR_SIGN_CLASS": "US_Diamond_Pic_RightUpwards_Yellow", 
+            "ROI_COORDINATE_Y_4": [
+                128
+            ], 
+            "LDROI_DATATYPE": [
+                "AAP///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                12
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                12
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                128
+            ], 
+            "ROI_COORDINATE_X_4": [
+                799
+            ], 
+            "ROI_COORDINATE_X_1": [
+                799
+            ], 
+            "ROI_COORDINATE_X_3": [
+                920
+            ], 
+            "ROI_COORDINATE_X_2": [
+                920
+            ]
+        }, 
+        "75": {
+            "FrameMtLDROITimeStamp": [
+                2938278723
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                133
+            ], 
+            "SR_SIGN_CLASS": "US_Diamond_Bend_Right_Yellow", 
+            "ROI_COORDINATE_Y_4": [
+                117
+            ], 
+            "LDROI_DATATYPE": [
+                "AAX///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                7
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                7
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                117
+            ], 
+            "ROI_COORDINATE_X_4": [
+                841
+            ], 
+            "ROI_COORDINATE_X_1": [
+                841
+            ], 
+            "ROI_COORDINATE_X_3": [
+                952
+            ], 
+            "ROI_COORDINATE_X_2": [
+                952
+            ]
+        }, 
+        "74": {
+            "FrameMtLDROITimeStamp": [
+                2926068007
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                240
+            ], 
+            "SR_SIGN_CLASS": "US_Diamond_Bend_Left_Yellow", 
+            "ROI_COORDINATE_Y_4": [
+                145
+            ], 
+            "LDROI_DATATYPE": [
+                "AAP///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                26
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                26
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                145
+            ], 
+            "ROI_COORDINATE_X_4": [
+                816
+            ], 
+            "ROI_COORDINATE_X_1": [
+                816
+            ], 
+            "ROI_COORDINATE_X_3": [
+                942
+            ], 
+            "ROI_COORDINATE_X_2": [
+                942
+            ]
+        }, 
+        "73": {
+            "FrameMtLDROITimeStamp": [
+                2925465252
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                220
+            ], 
+            "SR_SIGN_CLASS": "Speed_Limit_080_Inv", 
+            "ROI_COORDINATE_Y_4": [
+                65
+            ], 
+            "LDROI_DATATYPE": [
+                "AAP///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                22
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                22
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                65
+            ], 
+            "ROI_COORDINATE_X_4": [
+                143
+            ], 
+            "ROI_COORDINATE_X_1": [
+                143
+            ], 
+            "ROI_COORDINATE_X_3": [
+                187
+            ], 
+            "ROI_COORDINATE_X_2": [
+                187
+            ]
+        }, 
+        "72": {
+            "FrameMtLDROITimeStamp": [
+                2921848734
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                100
+            ], 
+            "SR_SIGN_CLASS": "US_Diamond_Bend_Left_Yellow", 
+            "ROI_COORDINATE_Y_4": [
+                171
+            ], 
+            "LDROI_DATATYPE": [
+                "AAP///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                93
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                93
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                171
+            ], 
+            "ROI_COORDINATE_X_4": [
+                14
+            ], 
+            "ROI_COORDINATE_X_1": [
+                14
+            ], 
+            "ROI_COORDINATE_X_3": [
+                84
+            ], 
+            "ROI_COORDINATE_X_2": [
+                84
+            ]
+        }, 
+        "71": {
+            "FrameMtLDROITimeStamp": [
+                2916884740
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                191
+            ], 
+            "SR_SIGN_CLASS": "US_Diamond_Pic_ExclamationMark_Yellow", 
+            "ROI_COORDINATE_Y_4": [
+                101
+            ], 
+            "LDROI_DATATYPE": [
+                "AAX///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                47
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                47
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                101
+            ], 
+            "ROI_COORDINATE_X_4": [
+                48
+            ], 
+            "ROI_COORDINATE_X_1": [
+                48
+            ], 
+            "ROI_COORDINATE_X_3": [
+                103
+            ], 
+            "ROI_COORDINATE_X_2": [
+                103
+            ]
+        }, 
+        "70": {
+            "FrameMtLDROITimeStamp": [
+                2905574352
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                72
+            ], 
+            "SR_SIGN_CLASS": "US_Diamond_Pic_AnimalCrossingFromLeft_Yellow", 
+            "ROI_COORDINATE_Y_4": [
+                184
+            ], 
+            "LDROI_DATATYPE": [
+                "AAP///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                107
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                107
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                184
+            ], 
+            "ROI_COORDINATE_X_4": [
+                1
+            ], 
+            "ROI_COORDINATE_X_1": [
+                1
+            ], 
+            "ROI_COORDINATE_X_3": [
+                78
+            ], 
+            "ROI_COORDINATE_X_2": [
+                78
+            ]
+        }, 
+        "79": {
+            "FrameMtLDROITimeStamp": [
+                2964945427
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                250
+            ], 
+            "SR_SIGN_CLASS": "US_Diamond_Bend_Right_Yellow", 
+            "ROI_COORDINATE_Y_4": [
+                159
+            ], 
+            "LDROI_DATATYPE": [
+                "AAP///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                84
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                84
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                159
+            ], 
+            "ROI_COORDINATE_X_4": [
+                2
+            ], 
+            "ROI_COORDINATE_X_1": [
+                2
+            ], 
+            "ROI_COORDINATE_X_3": [
+                68
+            ], 
+            "ROI_COORDINATE_X_2": [
+                68
+            ]
+        }, 
+        "78": {
+            "FrameMtLDROITimeStamp": [
+                2963438556
+            ], 
+            "LDROI_CYCLE_COUNTER": [
+                200
+            ], 
+            "SR_SIGN_CLASS": "Speed_Limit_080_Inv", 
+            "ROI_COORDINATE_Y_4": [
+                54
+            ], 
+            "LDROI_DATATYPE": [
+                "AAP///////8="
+            ], 
+            "ROI_COORDINATE_Y_1": [
+                18
+            ], 
+            "ROI_COORDINATE_Y_2": [
+                18
+            ], 
+            "ROI_COORDINATE_Y_3": [
+                54
+            ], 
+            "ROI_COORDINATE_X_4": [
+                138
+            ], 
+            "ROI_COORDINATE_X_1": [
+                138
+            ], 
+            "ROI_COORDINATE_X_3": [
+                174
+            ], 
+            "ROI_COORDINATE_X_2": [
+                174
+            ]
+        }
+    }, 
+    "RecIdFileName": "Continuous_2014.04.16_at_23.12.37.rec", 
+    "DEPARTMENT": "EVA", 
+    "TAN": "20140804144214SUD7199G008960000012014072314552468227", 
+    "LDROI_CYCLE_ID": "60"
+}

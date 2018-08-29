@@ -1,0 +1,24 @@
+syntax = "proto3";
+
+option optimize_for = SPEED;
+package Radar;
+
+message BsigDataRequest 
+{
+	string bsigPath = 1;
+	int32 objectIdCount = 2;
+	repeated string signalNames = 3;
+}
+
+message BSigDataOfEachSignal
+{
+	string signalName = 1;
+	int32 objectId = 2;
+	repeated float signalvalues = 3;
+}
+
+message BsigDataResponse
+{
+	repeated uint64 timeStamp = 1;
+	repeated BSigDataOfEachSignal eachSigValues = 2;
+}

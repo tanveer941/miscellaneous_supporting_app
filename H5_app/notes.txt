@@ -1,0 +1,14 @@
+
+
+D:\Work\2018\code\Tensorflow_code\Protobuf_compilers\protoc3.5\bin\protoc -I=.\ --python_out=.\ AlgoInterface.proto
+
+D:\Work\2018\code\Tensorflow_code\Protobuf_compilers\protoc3.2\protoc -I=.\ --cpp_out=.\ AlgoInterface.proto
+
+D:\Work\2018\code\Tensorflow_code\Protobuf_compilers\protoc3.3\protoc -I=.\ --cpp_out=.\ AlgoInterface.proto
+
+D:\Work\2018\code\Tensorflow_code\Protobuf_compilers\proto3.0.0\bin\protoc -I=.\ --cpp_out=.\ AlgoInterface.proto
+
+D:\Work\2018\code\Tensorflow_code\Protobuf_compilers\protoc3.5\bin\protoc -I=.\ --cpp_out=.\ AlgoInterface.proto
+
+pyinstaller hfl_data_publish.py --add-data topics.json;. --add-data _ecal_py_2_7_x86.pyd;.
+

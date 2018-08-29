@@ -1,0 +1,10 @@
+{
+  "device_request":"Request_Device",
+  "device_response":"Device_Response",
+  "channel_request":"Request_Channel",
+  "channel_response":"Channel_Response",
+  "hfl_request":"Request_HFL",
+  "hfl_response":"HFL_Response",
+  "h5_filename":"C:\\Users\\uidr8549\\My Documents\\SametimeFileTransfers\\2018.04.25_at_12.28.14_svu-mi5_149.h5",
+  "pixelwrite_request": "Write_PixelImage"
+}
