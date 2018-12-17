@@ -1,0 +1,58 @@
+syntax = "proto3";
+
+package common;
+
+///////////////////////
+// Input Config Read///
+///////////////////////
+
+message ConfigRequest
+{
+	string requestInputType = 1;
+}
+
+message ConfigResponse
+{
+	string recievedInputType  = 1;
+	bytes labelSchemaData = 2;
+	bytes labelCorrectorInfo = 3;
+} 
+
+message DevicesDataRequest
+{
+    bool requiredDevicesData = 1;
+}
+
+message ChannelInfo
+{
+	string channelName = 1;
+	repeated uint64 timeStamp = 2;
+}
+
+message DeviceData
+{
+	string deviceType = 1;
+	string deviceName = 2;
+	repeated ChannelInfo channelInfoAttr = 3;
+	int32 numOfChannels = 4;
+}
+
+message DevicesDataResponse
+{
+	repeated DeviceData deviceDataInfo = 1;
+	int32 deviceCount = 2;
+}
+
+message DataRequest
+{
+    uint64 requiredTimestamp = 1;
+    string requestChannelName = 2;
+    string requestDeviceName = 3;
+    repeated string fileName = 4;
+	uint64 uniqueId = 5;
+}
+
+message ServiceState
+{
+    string serviceStatus = 1;
+}

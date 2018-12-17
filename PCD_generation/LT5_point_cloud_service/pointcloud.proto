@@ -1,0 +1,33 @@
+syntax = "proto3";
+
+message PointAttribute
+{
+	double pointValue = 1;		// can be either of x / y / z and other attributes like r,g,b,a ... and so on
+}
+
+message Point
+{
+	repeated PointAttribute pointAtributes = 1;
+	// Additional info like point color can be appended.
+}
+
+message PointCloud
+{
+	string pointType = 1;		// Point type will determine the sequence of "pointAtributes" field of "Point" structure.
+	uint32 cloudWidth = 2;
+	uint32 cloudHeight = 3;
+	uint32 pointsCount = 4;
+	repeated Point points = 5; 
+	// Additional info like cloud properties can be added here can be added here
+}
+
+
+message PointCloudDataResponse
+{
+	uint64 recievedTimestamp = 1;
+	string responseChannelName = 2;
+	string responseDeviceName = 3;
+	string cloudName = 4;
+	uint64 uniqueId = 5;
+	repeated PointCloud pointClouds = 6;
+}

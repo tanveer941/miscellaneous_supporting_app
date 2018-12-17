@@ -1,0 +1,8 @@
+{
+  "pointcloud_device_request":"PointCloud_Device_Request",
+  "pointcloud_device_response":"PointCloud_Device_Response",
+  "pointcloud_data_request":"PointCloud_Data_Request",
+  "pointcloud_data_response":"PointCloud_Data_Response",
+  "pointcloud_begin_response": "Response_AlgoReady",
+  "pointcloud_end_response": "Finalize"
+}
