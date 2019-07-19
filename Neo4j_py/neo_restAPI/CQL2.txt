@@ -1,0 +1,55 @@
+
+C:\Users\uidr8549\Envs\python35_neo4\Scripts\python.exe D:\TDSM\MKS_integration_before\TDSM_auth\TF\Graph_database\Neo4js\Neo4j_start\Neo4j_py\graph_db_trace\rec_summary_events_rc.py
+
+
+
+START n=node(*)
+OPTIONAL MATCH (n)-[r]-()
+delete n,r;
+
+
+MATCH (RecordingName)-[country:country]->(Country)-
+[road_type:road_type]->(RoadType)-
+[weather_condition:weather_condition]->(WeatherCondition)-
+[light_condition:light_condition]->(LightCondition)
+WHERE RecordingName.name = 'Continuous_2011.07.04_at_14.37.07.rec'
+RETURN RecordingName.name, Country.name, RoadType.name,
+ WeatherCondition.name, LightCondition.name
+
+
+
+
+MATCH (CommonData)<-[cd:cd]-(RecordingName)-[c:c]->(Country)-
+[rt:rt]->(RoadType)-
+[w:w]->(WeatherCondition)-
+[lc:lc]->(LightCondition)
+WHERE RecordingName.name = 'Continuous_2011.07.04_at_14.37.07.rec'
+RETURN RecordingName.name as RecName, Country.name as Country, RoadType.name as RoadType,
+ WeatherCondition.name as WeatherCondition, LightCondition.name as LightCondition, CommonData.project as Project,
+ CommonData.function as Function, CommonData.department as Department
+
+====================Get details of the recordings===============================
+
+MATCH (CommonData)<-[cd:cd]-(RecordingName)-[c:c]->(Country)-
+[rt:rt]->(RoadType)-
+[w:w]->(WeatherCondition)-
+[lc:lc]->(LightCondition)-
+[ob:ob]->(ObjectType)
+WHERE RecordingName.name = 'Continuous_2011.07.04_at_14.37.07.rec'
+RETURN RecordingName.name as RecName, Country.name as Country, RoadType.name as RoadType,
+ WeatherCondition.name as WeatherCondition, LightCondition.name as LightCondition, CommonData.project as Project,
+ CommonData.function as Function, CommonData.department as Department, ObjectType.name as Objects
+
+
+=========================Get all recording names=============================
+
+MATCH (RecordingName:RecordingName)
+RETURN RecordingName.name, Country.name
+
+
+=========================Get all node details=============================
+
+
+
+
+

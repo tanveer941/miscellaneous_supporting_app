@@ -1,0 +1,57 @@
+
+?? Delete all nodes and relationships
+
+START n=node(*)
+OPTIONAL MATCH (n)-[r]-()
+delete n,r;
+
+CREATE (RecName:Label{Name:"Continuous_2012.09.12_at_22.25.49.rec"})
+CREATE (Country:Label{Name:"Great Britian"})
+CREATE (RoadType:Label{Name:"Highway"})
+CREATE (Weather:Label{Name:"Dry"})
+CREATE (Weather1:Label{Name:"Rain"})
+CREATE (LightCondition:Label{Name:"Night"})
+
+CREATE (RecName)-[:c]->(Country)
+CREATE (Country)-[:rt]->(RoadType)
+CREATE (RoadType)-[:w]->(Weather)
+CREATE (RoadType)-[:w]->(Weather1)
+CREATE (Weather)-[:lc]->(LightCondition)
+CREATE (Weather1)-[:lc]->(LightCondition)
+
+MATCH (Rec) WHERE id(Rec)=0
+MATCH (Rec)-[c:c]->(Country)-[rt:rt]->(RoadType)-[w:w]->(Weather)-[lc:lc]->(LightCondition)
+RETURN Rec,Country,RoadType,Weather,LightCondition;
+
+=========================================================================================
+
+pyinstaller --onefile rec_summary_events.py
+
+CREATE (RecName:RecName{Name:"Continuous_2012.09.12_at_22.25.49.rec"})
+CREATE (Country:Country{Name:"Great Britian"})
+CREATE (RecName:RecName{Name:"Continuous_2012.09.12_at_22.25.49.rec"})-[:c]->(Country:Country{Name:"Great Britian"})
+
+CREATE (RecName:RecName{Name:"Snapshot.08.12_at_25.18.21.rec"})
+CREATE (Country:Country{Name:"Germany"})
+CREATE (RecName:RecName{Name:"Snapshot.08.12_at_25.18.21.rec"})-[:c]->(Country:Country{Name:"Germany"})
+
+
+CREATE (RecName:RecName{Name:"Snapshot.08.12_at_25.18.21.rec"})-[:c]->(Country:Country{Name:"Germany"})
+
+
+MATCH (RecName:RecName) where ID(p)=68
+OPTIONAL MATCH (p)-[r]-()
+DELETE r,p
+
+
+MATCH (RecName)-[c:c]->(Country) RETURN RecName.Name, Country.Name
+
+
+
+MATCH (RecordingName)-[country:country]->(Country)-
+[road_type:road_type]->(RoadType)-
+[weather_condition:weather_condition]->(WeatherCondition)-
+[light_condition:light_condition]->(LightCondition)
+WHERE RecordingName.name = 'Continuous_2011.07.04_at_14.37.07.rec'
+RETURN RecordingName.name, Country.name, RoadType.name,
+ WeatherCondition.name, LightCondition.name

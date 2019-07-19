@@ -1,0 +1,35 @@
+The recording Continuous_2011.07.01_at_18.01.15.rec has labels for ['MFC400'] ['SR  ']
+        for ['DEV'] which has observations of 1 Countries ['USA'] 
+        driven in 1 road types ['Highway'] under 1
+        weather conditions ['Rain'] with 1
+        Light Conditions ['Dusk'] having 1 Objects ['Other_Diamond_Sign_Similar'].
+        
+
+The recording Continuous_2011.07.04_at_22.13.36.rec has labels for ['MFC400'] ['SR  ']
+        for ['DEV'] which has observations of 1 Countries ['USA'] 
+        driven in 1 road types ['Country_Road'] under 1
+        weather conditions ['Rain'] with 1
+        Light Conditions ['Night'] having 7 Objects ['Not_Readable', 'Other_Diamond_Sign_Similar', 'Other_Round_Sign', 'Other_Supplementary_Sign', 'Stop', 'US_Speed_Limit_040', 'US_Town_Speed_Limit_045'].
+        
+
+The recording Continuous_2011.07.04_at_22.01.27.rec has labels for ['MFC400'] ['SR  ']
+        for ['DEV'] which has observations of 1 Countries ['USA'] 
+        driven in 1 road types ['Motorway'] under 1
+        weather conditions ['Rain'] with 1
+        Light Conditions ['Night'] having 7 Objects ['Not_Readable', 'Other_Diamond_Sign_Similar', 'US_End_045_MPH', 'US_End_060_MPH', 'US_Exit_035_MPH_Yellow', 'US_Exit_040_MPH_Yellow', 'US_Speed_Limit_060'].
+        
+
+The recording Continuous_2012.09.11_at_17.47.17.rec has labels for ['MFC400'] ['SR  ']
+        for ['DEV'] which has observations of 1 Countries ['Luxemburg'] 
+        driven in 1 road types ['Motorway'] under 1
+        weather conditions ['Rain'] with 1
+        Light Conditions ['Day'] having 16 Objects ['Danger_Double_Bend_Left_First', 'Danger_Traffic_Lights', 'Dir_Straight_Ahead', 'Give_Way', 'No_Passing_Truck', 'Not_Readable', 'Number_In_Circle', 'Other_Supplementary_Sign', 'Other_Triangular_Sign', 'Prohib_Truck', 'Speed_Limit_090', 'Speed_Limit_090_Inv', 'Speed_Limit_End_090_Thick_Circle', 'Suppl_Explanation_TexRegExp_100m', 'Suppl_Explanation_TexRegExp_250m', 'Suppl_Explanation_TexRegExp_2km_Inv'].
+        
+
+The recording Continuous_2012.09.12_at_22.25.49.rec has labels for ['MFC400'] ['SR  ']
+        for ['DEV'] which has observations of 1 Countries ['Great_Britain'] 
+        driven in 2 road types ['Highway', 'Country_Road'] under 2
+        weather conditions ['Rain', 'Dry'] with 1
+        Light Conditions ['Night'] having 30 Objects ['Danger_Bicycle_Crossing', 'Danger_Exclamation_Mark', 'Danger_Pedestrian', 'Danger_Road_Narrow_Both_Sides', 'Danger_Road_Narrow_Right_Side', 'Danger_Roundabout', 'Danger_Small_Road_From_Left', 'Danger_Small_Road_From_Left_45_Degree', 'Danger_Splippery_Road', 'Danger_Traffic_Lights_Embedded', 'Danger_Two_Way_Traffic', 'Dir_Down_Left', 'Dir_Left', 'Dir_Roundabout', 'Do_Not_Enter', 'General_End', 'General_End_Slash_60Deg', 'Give_Way', 'Give_Way_Give_Way', 'Motor_Way', 'Not_Readable', 'Only_Bicycle', 'Other_Round_Sign', 'Other_Supplementary_Sign', 'Other_Triangular_Sign', 'Prohib_Stopping', 'Prohib_Turn_Around', 'Prohib_Turn_Left', 'Speed_Limit_030', 'Speed_Limit_050'].
+        
+

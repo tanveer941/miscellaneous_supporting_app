@@ -1,0 +1,462 @@
+The recording 20141215_1540_{08627FB2-FDC3-414E-92B3-EBE39884DA8F}.rrec has labels for ['MFC400'] ['SR  ']
+        for ['DEV'] which has observations of 1 Countries ['Italy'] 
+        driven in 1 road types ['Motorway'] under 1
+        weather conditions ['Dry'] with 1
+        Light Conditions ['Night'] having 71 Objects ['Danger_Animal_Crossing_from_Right', 'Danger_Bend_Left', 'Danger_Exclamation_Mark', 'Danger_Exclamation_Mark_Yellow', 'Danger_Road_Works_Right', 'Danger_Road_Works_Right_Yellow', 'Danger_Small_Road_From_Left_45_Degree', 'Danger_Small_Road_From_Right_45_Degree', 'Danger_Small_Road_From_Right_45_Degree_Yellow', 'Danger_Splippery_Road', 'Danger_Traffic_Lights', 'Danger_Two_Bump', 'Danger_Two_Way_Traffic_Yellow', 'Dir_Down_Left', 'Dir_Down_Left_Right', 'Dir_Down_Right', 'Dir_Left', 'Dir_Right', 'Dir_Right_Ahead', 'Dir_Roundabout', 'Dir_Straight_Ahead', 'Do_Not_Enter', 'Duty_Station', 'General_End_Slash_80Deg', 'Give_Way', 'Motor_Way', 'Motor_Way_End_Green', 'No_Passing', 'No_Passing_Truck', 'Not_Readable', 'Other_Round_Sign', 'Other_Supplementary_Sign', 'Pedestrian_Crossing', 'Prohib_All', 'Prohib_Moped', 'Prohib_Motorbike', 'Prohib_Parking', 'Prohib_Pedestrian', 'Prohib_Stopping', 'Prohib_Truck', 'Speed_Limit_030', 'Speed_Limit_040', 'Speed_Limit_050', 'Speed_Limit_060', 'Speed_Limit_060_Inv', 'Speed_Limit_065', 'Speed_Limit_070', 'Speed_Limit_080', 'Speed_Limit_090', 'Speed_Limit_100', 'Speed_Limit_110', 'Speed_Limit_End_060_Slash_60Deg', 'Speed_Limit_End_110_Slash_80Deg', 'Stop', 'Suppl_Expalantion_Pic_SnowPlow', 'Suppl_Explanation_Pic_ArrowDownShort', 'Suppl_Explanation_Pic_ArrowUpShort', 'Suppl_Explanation_Pic_ArrowUpShort_Pic_ArrowDownShort', 'Suppl_Explanation_Pic_Truck_Pic_CarSide_Pic_TiltedLine', 'Suppl_Explanation_TexRegExp_1500m', 'Suppl_Explanation_TexRegExp_150m', 'Suppl_Explanation_TexRegExp_500m', 'Suppl_Explanation_TexRegExp_700m', 'Suppl_Restriction_Pic_CarSide', 'Suppl_Restriction_Pic_CloudBlackRain', 'Suppl_Restriction_Pic_SnowFlake_Pic_SnowFlake_Inv', 'Suppl_Restriction_Pic_TruckXXt', 'Suppl_Restriction_TexRegExp_0-24', 'Suppl_Restriction_TexRegExp_12t', 'Suppl_Restriction_TexRegExp_7,5t', 'Suppl_Restriction_Tex_ingalleria'].
+        
+
+The recording 20150731_0439_{7B17D7CD-A8C7-4F64-B08B-4702C55F3D32}.rrec has labels for ['MFC400'] ['SR  ']
+        for ['DEV'] which has observations of 1 Countries ['Hungary'] 
+        driven in 1 road types ['Motorway'] under 1
+        weather conditions ['Dry'] with 1
+        Light Conditions ['Day'] having 55 Objects ['Danger_Animal_Crossing_From_Left', 'Danger_Animal_Crossing_from_Right', 'Danger_Splippery_Road', 'Danger_Two_Bump', 'Danger_Two_Way_Traffic', 'Dir_Down_Left_Right', 'Dir_Left', 'Dir_Straight_Ahead', 'Do_Not_Enter', 'Give_Way', 'Give_Way_Inverted', 'High_Way', 'Motor_Way', 'Motor_Way_End', 'No_Passing_Truck', 'No_Passing_Truck_End', 'Not_Readable', 'Other_Rectangular_Sign_Similar', 'Other_Round_Sign', 'Other_Supplementary_Sign', 'Prohib_Stopping', 'Prohib_Weight', 'Prohib_Weight_Truck_XXt', 'Speed_Limit_040', 'Speed_Limit_050', 'Speed_Limit_050_Black_Circle', 'Speed_Limit_060', 'Speed_Limit_070', 'Speed_Limit_070_Black_Circle', 'Speed_Limit_080', 'Speed_Limit_080_Black_Circle', 'Speed_Limit_080_Km_Below', 'Speed_Limit_090', 'Speed_Limit_090_Km_Below', 'Speed_Limit_100', 'Speed_Limit_100_Black_Circle', 'Suppl_Explanation_Pic_ArrowUp_TexRegExp_0.6km_Pic_ArrowUp', 'Suppl_Explanation_Pic_ArrowUp_TexRegExp_1000m_Pic_ArrowUp', 'Suppl_Explanation_Pic_ArrowUp_TexRegExp_10km_Pic_ArrowUp', 'Suppl_Explanation_Pic_ArrowUp_TexRegExp_123km_Pic_ArrowUp', 'Suppl_Explanation_Pic_ArrowUp_TexRegExp_16.9km_Pic_ArrowUp', 'Suppl_Explanation_Pic_ArrowUp_TexRegExp_1km_Pic_ArrowUp', 'Suppl_Explanation_Pic_ArrowUp_TexRegExp_20km_Pic_ArrowUp', 'Suppl_Explanation_Pic_ArrowUp_TexRegExp_2km_Pic_ArrowUp', 'Suppl_Explanation_Pic_ArrowUp_TexRegExp_39km_Pic_ArrowUp', 'Suppl_Explanation_Pic_ArrowUp_TexRegExp_3km_Pic_ArrowUp', 'Suppl_Explanation_Pic_ArrowUp_TexRegExp_43km_Pic_ArrowUp', 'Suppl_Explanation_Pic_ArrowUp_TexRegExp_54km_Pic_ArrowUp', 'Suppl_Explanation_Pic_ArrowUp_TexRegExp_8.8km_Pic_ArrowUp', 'Suppl_Explanation_Pic_ArrowUp_TexRegExp_83km_Pic_ArrowUp', 'Suppl_Explanation_TexRegExp_500m', 'Suppl_Explanation_TexRegExp_500m_Inv', 'Suppl_Restriction_Pic_SmallBlackCloudRain_Pic_BigBlackCloudRain', 'Suppl_Restriction_Pic_SnowFlake_Pic_CloudRain', 'Suppl_Restriction_Pic_Snowflake'].
+        
+
+The recording Continuous_2011.02.09_at_09.43.21.rec has labels for ['MFC400'] ['SR  ']
+        for ['DEV'] which has observations of 1 Countries ['USA'] 
+        driven in 1 road types ['Motorway'] under 1
+        weather conditions ['Dry'] with 1
+        Light Conditions ['Day'] having 20 Objects ['Diamond_Bend_Left_Yellow', 'Do_Not_Enter', 'Other_Diamond_Sign_Similar', 'Other_Rectangular_Sign_Similar', 'Other_Supplementary_Sign', 'Stop', 'US_Autos_with_Trailers_Line_Trucks_055_Maximum', 'US_Chevron_Right_Yellow', 'US_Diamond_ArrowRight180Deg_020_Yellow', 'US_Diamond_ArrowRight180Deg_025_Yellow', 'US_Diamond_ArrowRight90Deg_Yellow', 'US_Diamond_ArrowUp_Give_Way_Yellow', 'US_Diamond_ArrowUp_Stop_Yellow', 'US_Diamond_Pic_ArrowUp_Tex_XX-XX_ArrowDown_Yellow', 'US_Diamond_Small_Road_From_Right_45_Degree_Yellow', 'US_Diamond_Traffic_Lights_Embedded_Yellow', 'US_Exit_020_MPH_Yellow', 'US_Exit_025_MPH_Yellow', 'US_Maximum_Speed_065', 'US_Suppl_Tex_Radar_Tex_Enforced'].
+        
+
+The recording Continuous_2011.02.09_at_20.47.57.rec has labels for ['MFC400'] ['SR  ']
+        for ['DEV'] which has observations of 1 Countries ['USA'] 
+        driven in 1 road types ['Motorway'] under 1
+        weather conditions ['Dry'] with 1
+        Light Conditions ['Night'] having 3 Objects ['Not_Readable', 'Other_Diamond_Sign_Similar', 'Other_Supplementary_Sign'].
+        
+
+The recording Continuous_2011.02.10_at_09.43.17.rec has labels for ['MFC400'] ['SR  ']
+        for ['DEV'] which has observations of 1 Countries ['USA'] 
+        driven in 1 road types ['Motorway'] under 1
+        weather conditions ['Dry'] with 1
+        Light Conditions ['Day'] having 25 Objects ['Do_Not_Enter', 'Do_Not_Enter_Do_Not_Enter', 'Not_Readable', 'Other_Diamond_Sign_Similar', 'Other_Rectangular_Sign_Similar', 'Other_Supplementary_Sign', 'Stop', 'US_035_MPH', 'US_Diamond_ArrowRight45DegLeft45Deg_Yellow', 'US_Diamond_ArrowUp_Stop_Yellow', 'US_Diamond_Bicycle_Yellow', 'US_Diamond_Cross_Road_Yellow', 'US_Diamond_Pic_ArrowUp_Tex_XX-XX_ArrowDown_Yellow', 'US_Diamond_Road_From_Right_Yellow', 'US_Diamond_Road_Narrow_Left_Side_Yellow', 'US_Diamond_Road_Work_Ahead_Orange', 'US_Diamond_Slippery_Yellow', 'US_Diamond_Small_Road_From_Right_45_Degree_Yellow', 'US_Diamond_Traffic_Lights_Embedded_Yellow', 'US_Exit_015_MPH_Yellow', 'US_Exit_035_MPH_Yellow', 'US_Exit_045_MPH_Yellow', 'US_Maximum_Speed_065', 'US_Speed_Limit_065', 'US_Wrong_Way'].
+        
+
+The recording Continuous_2011.02.10_at_15.30.37.rec has labels for ['MFC400'] ['SR  ']
+        for ['DEV'] which has observations of 1 Countries ['USA'] 
+        driven in 1 road types ['Country_Road'] under 1
+        weather conditions ['Dry'] with 1
+        Light Conditions ['Day'] having 5 Objects ['Other_Diamond_Sign_Similar', 'Other_Rectangular_Sign_Similar', 'Stop', 'US_Speed_Limit_045', 'US_Speed_Limit_055'].
+        
+
+The recording Continuous_2011.02.10_at_19.53.47.rec has labels for ['MFC400'] ['SR  ']
+        for ['DEV'] which has observations of 1 Countries ['USA'] 
+        driven in 2 road types ['City', 'Country_Road'] under 1
+        weather conditions ['Dry'] with 1
+        Light Conditions ['Night'] having 28 Objects ['Do_Not_Enter', 'Not_Readable', 'Other_Diamond_Sign_Similar', 'Other_Rectangular_Sign_Similar', 'Other_Round_Sign', 'Other_Supplementary_Sign', 'Prohib_Truck', 'Prohib_Turn_Around', 'Prohib_Turn_Left', 'Stop', 'US_Diamond_Animal_Crossing_From_Right_Yellow', 'US_Diamond_Bend_Left_Yellow', 'US_Diamond_Bicycle_Yellow', 'US_Diamond_Cross_Road_Yellow', 'US_Diamond_Pedestrian_Yellow', 'US_Diamond_Pic_RoadNarrowRightSide_Yellow', 'US_Diamond_Road_From_Right_Yellow', 'US_Diamond_Road_Narrow_Right_Side_Yellow', 'US_Diamond_Tex_LaneEnds_Tex_Merge_Tex_Left_Orange', 'US_Diamond_Traffic_Lights_Embedded_Yellow', 'US_Diamond_Two_Way_Traffic_Yellow', 'US_Do_Not_Pass', 'US_Speed_Limit_025', 'US_Speed_Limit_040', 'US_Speed_Limit_045', 'US_Speed_Limit_050', 'US_Speed_Limit_055', 'US_Wrong_Way'].
+        
+
+The recording Continuous_2011.02.11_at_09.38.03.rec has labels for ['MFC400'] ['SR  ']
+        for ['DEV'] which has observations of 1 Countries ['USA'] 
+        driven in 1 road types ['City'] under 1
+        weather conditions ['Dry'] with 1
+        Light Conditions ['Day'] having 8 Objects ['Do_Not_Enter', 'Not_Readable', 'Other_Rectangular_Sign_Similar', 'Other_Round_Sign', 'Other_Supplementary_Sign', 'Prohib_Turn_Left', 'US_Speed_Limit_025', 'US_Speed_Limit_030'].
+        
+
+The recording Continuous_2011.02.11_at_10.33.04.rec has labels for ['MFC400'] ['SR  ']
+        for ['DEV'] which has observations of 1 Countries ['USA'] 
+        driven in 1 road types ['Motorway'] under 1
+        weather conditions ['Dry'] with 1
+        Light Conditions ['Day'] having 2 Objects ['Other_Diamond_Sign_Similar', 'US_Speed_Limit_055'].
+        
+
+The recording Continuous_2011.02.11_at_11.52.06.rec has labels for ['MFC400'] ['SR  ']
+        for ['DEV'] which has observations of 1 Countries ['USA'] 
+        driven in 3 road types ['Motorway', 'Other', 'City'] under 1
+        weather conditions ['Dry'] with 1
+        Light Conditions ['Day'] having 13 Objects ['Not_Readable', 'Other_Diamond_Sign_Similar', 'Other_Rectangular_Sign_Similar', 'Other_Supplementary_Sign', 'Stop', 'US_015_MPH_Yellow', 'US_045_MPH_Yellow', 'US_Do_Not_Pass', 'US_Exit_035_MPH_Yellow', 'US_Exit_045_MPH_Yellow', 'US_Speed_Limit_025', 'US_Speed_Limit_035', 'US_Speed_Limit_065'].
+        
+
+The recording Continuous_2011.02.11_at_12.47.43.rec has labels for ['MFC400'] ['SR  ']
+        for ['DEV'] which has observations of 1 Countries ['USA'] 
+        driven in 1 road types ['Motorway'] under 1
+        weather conditions ['Dry'] with 1
+        Light Conditions ['Day'] having 13 Objects ['Not_Readable', 'Other_Diamond_Sign_Similar', 'Other_Rectangular_Sign_Similar', 'Other_Round_Sign', 'Other_Supplementary_Sign', 'Prohib_Turn_Around', 'Stop', 'US_Exit_030_MPH_Yellow', 'US_Exit_035_MPH_Yellow', 'US_Exit_045_MPH_Yellow', 'US_Ramp_045_MPH_Yellow', 'US_Speed_Limit_005', 'US_Speed_Limit_055'].
+        
+
+The recording Continuous_2011.02.11_at_14.25.37.rec has labels for ['MFC400'] ['SR  ']
+        for ['DEV'] which has observations of 1 Countries ['USA'] 
+        driven in 1 road types ['Motorway'] under 1
+        weather conditions ['Dry'] with 1
+        Light Conditions ['Day'] having 6 Objects ['Other_Diamond_Sign_Similar', 'Other_Rectangular_Sign_Similar', 'Other_Supplementary_Sign', 'US_All_Vehicles_When_Towing_055_Maximum', 'US_Exit_045_MPH_Yellow', 'US_Speed_Limit_065'].
+        
+
+The recording Continuous_2011.02.11_at_18.13.23.rec has labels for ['MFC400'] ['SR  ']
+        for ['DEV'] which has observations of 1 Countries ['USA'] 
+        driven in 1 road types ['Highway'] under 1
+        weather conditions ['Dry'] with 1
+        Light Conditions ['Night'] having 4 Objects ['Not_Readable', 'Other_Diamond_Sign_Similar', 'US_All_Vehicles_When_Towing_055_Maximum', 'US_Speed_Limit_065'].
+        
+
+The recording Continuous_2011.02.11_at_18.21.13.rec has labels for ['MFC400'] ['SR  ']
+        for ['DEV'] which has observations of 1 Countries ['USA'] 
+        driven in 1 road types ['Motorway'] under 1
+        weather conditions ['Dry'] with 1
+        Light Conditions ['Night'] having 13 Objects ['Not_Readable', 'Other_Diamond_Sign_Similar', 'Other_Rectangular_Sign_Similar', 'Other_Round_Sign', 'Other_Supplementary_Sign', 'Prohib_Turn_Left', 'Prohib_Turn_Right', 'Stop', 'US_Diamond_ArrowRight45Deg_010_Yellow', 'US_End_050_MPH', 'US_Speed_Limit_030', 'US_Speed_Limit_040', 'US_Speed_Limit_045'].
+        
+
+The recording Continuous_2011.06.10_at_13.44.14.rec has labels for ['MFC400'] ['SR  ']
+        for ['EVA'] which has observations of 1 Countries ['USA'] 
+        driven in 1 road types ['City'] under 1
+        weather conditions ['Dry'] with 1
+        Light Conditions ['Day'] having 1 Objects ['US_Diamond_Road_Work_Ahead_Orange'].
+        
+
+The recording Continuous_2011.06.10_at_22.40.17.rec has labels for ['MFC400'] ['SR  ']
+        for ['EVA'] which has observations of 1 Countries ['USA'] 
+        driven in 1 road types ['Country_Road'] under 1
+        weather conditions ['Dry'] with 1
+        Light Conditions ['Night'] having 7 Objects ['Give_Way', 'Stop', 'US_Diamond_ArrowUp_Stop_Yellow', 'US_Diamond_Road_Work_Ahead_Orange', 'US_Speed_Limit_030', 'US_Speed_Limit_035', 'US_Speed_Limit_045'].
+        
+
+The recording Continuous_2011.06.16_at_12.10.00.rec has labels for ['MFC400'] ['SR  ']
+        for ['DEV'] which has observations of 1 Countries ['USA'] 
+        driven in 2 road types ['City', 'Motorway'] under 1
+        weather conditions ['Dry'] with 1
+        Light Conditions ['Day'] having 8 Objects ['Not_Readable', 'Other_Diamond_Sign_Similar', 'Other_Rectangular_Sign_Similar', 'Other_Round_Sign', 'Other_Supplementary_Sign', 'Stop', 'US_Ramp_ArrowRight270Deg_025_MPH_Yellow', 'US_Speed_Limit_070_Trucks_060'].
+        
+
+The recording Continuous_2011.06.16_at_14.02.06.rec has labels for ['MFC400'] ['SR  ']
+        for ['DEV'] which has observations of 1 Countries ['USA'] 
+        driven in 1 road types ['Highway'] under 1
+        weather conditions ['Dry'] with 1
+        Light Conditions ['Day'] having 3 Objects ['Other_Diamond_Sign_Similar', 'Other_Rectangular_Sign_Similar', 'US_Speed_Limit_070_Trucks_060'].
+        
+
+The recording Continuous_2011.06.27_at_14.49.01.rec has labels for ['MFC400'] ['SR  ']
+        for ['DEV'] which has observations of 1 Countries ['USA'] 
+        driven in 1 road types ['Motorway'] under 1
+        weather conditions ['Dry'] with 1
+        Light Conditions ['Day'] having 2 Objects ['Prohib_Turn_Around', 'US_Speed_Limit_065'].
+        
+
+The recording Continuous_2011.06.27_at_14.52.04.rec has labels for ['MFC400'] ['SR  ']
+        for ['DEV'] which has observations of 1 Countries ['USA'] 
+        driven in 1 road types ['Motorway'] under 1
+        weather conditions ['Dry'] with 1
+        Light Conditions ['Day'] having 2 Objects ['Prohib_Turn_Around', 'US_Speed_Limit_065'].
+        
+
+The recording Continuous_2011.06.27_at_15.57.24.rec has labels for ['MFC400'] ['SR  ']
+        for ['DEV'] which has observations of 1 Countries ['USA'] 
+        driven in 3 road types ['Motorway', 'Country_Road', 'City'] under 1
+        weather conditions ['Dry'] with 1
+        Light Conditions ['Day'] having 8 Objects ['Not_Readable', 'Other_Rectangular_Sign_Similar', 'Other_Round_Sign', 'Other_Supplementary_Sign', 'Prohib_Truck', 'Prohib_Turn_Left', 'US_Exit_035_MPH_Yellow', 'US_Speed_Limit_040'].
+        
+
+The recording Continuous_2011.06.27_at_16.03.03.rec has labels for ['MFC400'] ['SR  ']
+        for ['DEV'] which has observations of 1 Countries ['USA'] 
+        driven in 1 road types ['Motorway'] under 1
+        weather conditions ['Dry'] with 1
+        Light Conditions ['Day'] having 10 Objects ['Give_Way', 'Other_Diamond_Sign_Similar', 'Other_Rectangular_Sign_Similar', 'Other_Round_Sign', 'Other_Supplementary_Sign', 'Prohib_Truck', 'Prohib_Turn_Around', 'Stop', 'US_Speed_Limit_025', 'US_Speed_Limit_045'].
+        
+
+The recording Continuous_2011.06.27_at_16.22.12.rec has labels for ['MFC400'] ['SR  ']
+        for ['DEV'] which has observations of 1 Countries ['USA'] 
+        driven in 2 road types ['Motorway', 'City'] under 1
+        weather conditions ['Dry'] with 1
+        Light Conditions ['Day'] having 7 Objects ['Give_Way', 'Other_Diamond_Sign_Similar', 'Other_Rectangular_Sign_Similar', 'Other_Round_Sign', 'Other_Supplementary_Sign', 'Stop', 'US_Speed_Limit_045'].
+        
+
+The recording Continuous_2011.06.27_at_17.24.42.rec has labels for ['MFC400'] ['SR  ']
+        for ['DEV'] which has observations of 1 Countries ['USA'] 
+        driven in 2 road types ['Motorway', 'City'] under 1
+        weather conditions ['Dry'] with 1
+        Light Conditions ['Day'] having 9 Objects ['Give_Way', 'Not_Readable', 'Other_Diamond_Sign_Similar', 'Other_Round_Sign', 'Stop', 'US_Diamond_Road_Work_Ahead_Orange', 'US_Speed_Limit_030', 'US_Speed_Limit_040', 'US_Speed_Limit_055'].
+        
+
+The recording Continuous_2011.06.27_at_17.35.32.rec has labels for ['MFC400'] ['SR  ']
+        for ['DEV'] which has observations of 1 Countries ['USA'] 
+        driven in 1 road types ['Motorway'] under 1
+        weather conditions ['Dry'] with 1
+        Light Conditions ['Day'] having 9 Objects ['Give_Way', 'Not_Readable', 'Other_Diamond_Sign_Similar', 'Other_Rectangular_Sign_Similar', 'Other_Round_Sign', 'Other_Supplementary_Sign', 'Stop', 'US_Speed_Limit_045', 'US_Speed_Limit_055'].
+        
+
+The recording Continuous_2011.06.27_at_17.51.03.rec has labels for ['MFC400'] ['SR  ']
+        for ['DEV'] which has observations of 1 Countries ['USA'] 
+        driven in 1 road types ['Highway'] under 1
+        weather conditions ['Dry'] with 1
+        Light Conditions ['Day'] having 14 Objects ['Do_Not_Enter', 'Give_Way', 'Not_Readable', 'Other_Diamond_Sign_Similar', 'Other_Rectangular_Sign_Similar', 'Other_Round_Sign', 'Other_Supplementary_Sign', 'Prohib_Turn_Around', 'Stop', 'US_Diamond_ArrowUp_Speed_Limit_045_Yellow', 'US_Ramp_025_MPH_Yellow', 'US_Speed_Limit_045', 'US_Speed_Limit_050', 'US_Speed_Limit_055'].
+        
+
+The recording Continuous_2011.06.27_at_18.10.48.rec has labels for ['MFC400'] ['SR  ']
+        for ['DEV'] which has observations of 1 Countries ['USA'] 
+        driven in 1 road types ['City'] under 1
+        weather conditions ['Dry'] with 1
+        Light Conditions ['Day'] having 7 Objects ['Not_Readable', 'Other_Diamond_Sign_Similar', 'Other_Rectangular_Sign_Similar', 'Other_Round_Sign', 'Prohib_Turn_Right', 'Stop', 'US_Speed_Limit_030'].
+        
+
+The recording Continuous_2011.06.27_at_18.26.35.rec has labels for ['MFC400'] ['SR  ']
+        for ['DEV'] which has observations of 1 Countries ['USA'] 
+        driven in 1 road types ['Country_Road'] under 1
+        weather conditions ['Dry'] with 1
+        Light Conditions ['Day'] having 11 Objects ['Give_Way', 'Not_Readable', 'Other_Diamond_Sign_Similar', 'Other_Rectangular_Sign_Similar', 'Other_Round_Sign', 'Other_Supplementary_Sign', 'Other_Triangular_Sign', 'Prohib_Turn_Left', 'US_Exit_025_MPH_Yellow', 'US_Exit_030_MPH_Yellow', 'US_Speed_Limit_055'].
+        
+
+The recording Continuous_2011.06.29_at_13.04.19.rec has labels for ['MFC400'] ['SR  ']
+        for ['DEV'] which has observations of 1 Countries ['USA'] 
+        driven in 1 road types ['Country_Road'] under 1
+        weather conditions ['Dry'] with 1
+        Light Conditions ['Day'] having 3 Objects ['Give_Way', 'Other_Diamond_Sign_Similar', 'Stop'].
+        
+
+The recording Continuous_2011.06.29_at_13.50.15.rec has labels for ['MFC400'] ['SR  ']
+        for ['DEV'] which has observations of 1 Countries ['USA'] 
+        driven in 1 road types ['City'] under 1
+        weather conditions ['Dry'] with 1
+        Light Conditions ['Day'] having 6 Objects ['Not_Readable', 'Other_Diamond_Sign_Similar', 'Other_Round_Sign', 'Suppl_Restriction_Pic_Bus', 'US_Speed_Limit_025', 'US_Speed_Limit_035'].
+        
+
+The recording Continuous_2011.06.29_at_15.14.40.rec has labels for ['MFC400'] ['SR  ']
+        for ['DEV'] which has observations of 1 Countries ['USA'] 
+        driven in 1 road types ['Motorway'] under 1
+        weather conditions ['Dry'] with 1
+        Light Conditions ['Day'] having 1 Objects ['Other_Diamond_Sign_Similar'].
+        
+
+The recording Continuous_2011.06.29_at_17.05.58.rec has labels for ['MFC400'] ['SR  ']
+        for ['DEV'] which has observations of 1 Countries ['USA'] 
+        driven in 1 road types ['City'] under 1
+        weather conditions ['Dry'] with 1
+        Light Conditions ['Day'] having 3 Objects ['Not_Readable', 'Other_Diamond_Sign_Similar', 'Other_Triangular_Sign'].
+        
+
+The recording Continuous_2011.06.29_at_19.09.44.rec has labels for ['MFC400'] ['SR  ']
+        for ['DEV'] which has observations of 1 Countries ['USA'] 
+        driven in 1 road types ['Motorway'] under 1
+        weather conditions ['Dry'] with 1
+        Light Conditions ['Day'] having 3 Objects ['Not_Readable', 'Other_Diamond_Sign_Similar', 'US_Speed_Limit_065'].
+        
+
+The recording Continuous_2011.06.29_at_19.28.23.rec has labels for ['MFC400'] ['SR  ']
+        for ['DEV'] which has observations of 1 Countries ['USA'] 
+        driven in 1 road types ['Motorway'] under 1
+        weather conditions ['Dry'] with 1
+        Light Conditions ['Day'] having 1 Objects ['Other_Diamond_Sign_Similar'].
+        
+
+The recording Continuous_2011.06.29_at_19.40.59.rec has labels for ['MFC400'] ['SR  ']
+        for ['DEV'] which has observations of 1 Countries ['USA'] 
+        driven in 1 road types ['Country_Road'] under 1
+        weather conditions ['Dry'] with 1
+        Light Conditions ['Day'] having 1 Objects ['Other_Diamond_Sign_Similar'].
+        
+
+The recording Continuous_2011.06.29_at_19.45.00.rec has labels for ['MFC400'] ['SR  ']
+        for ['DEV'] which has observations of 1 Countries ['USA'] 
+        driven in 1 road types ['Country_Road'] under 1
+        weather conditions ['Dry'] with 1
+        Light Conditions ['Day'] having 1 Objects ['US_Speed_Limit_070'].
+        
+
+The recording Continuous_2011.06.29_at_23.04.22.rec has labels for ['MFC400'] ['SR  ']
+        for ['DEV'] which has observations of 1 Countries ['USA'] 
+        driven in 1 road types ['Highway'] under 1
+        weather conditions ['Dry'] with 1
+        Light Conditions ['Night'] having 7 Objects ['Do_Not_Enter', 'Give_Way', 'Not_Readable', 'Other_Diamond_Sign_Similar', 'Other_Supplementary_Sign', 'US_045_MPH_Yellow', 'US_Speed_Limit_055'].
+        
+
+The recording Continuous_2011.06.30_at_15.23.24.rec has labels for ['MFC400'] ['SR  ']
+        for ['DEV'] which has observations of 1 Countries ['USA'] 
+        driven in 1 road types ['Motorway'] under 1
+        weather conditions ['Dry'] with 1
+        Light Conditions ['Day'] having 8 Objects ['Not_Readable', 'Other_Diamond_Sign_Similar', 'Prohib_Turn_Around', 'US_Diamond_Right_Lane_Ends_Yellow', 'US_Diamond_Road_Narrow_Right_Side_Yellow', 'US_Diamond_Small_Road_From_Right_45_Degree_Yellow', 'US_Diamond_Traffic_Lights_Embedded_Yellow', 'US_Speed_Limit_065'].
+        
+
+The recording Continuous_2011.06.30_at_21.39.28.rec has labels for ['MFC400'] ['SR  ']
+        for ['DEV'] which has observations of 1 Countries ['USA'] 
+        driven in 1 road types ['Motorway'] under 1
+        weather conditions ['Dry'] with 1
+        Light Conditions ['Night'] having 1 Objects ['Not_Readable'].
+        
+
+The recording Continuous_2011.07.01_at_16.39.12.rec has labels for ['MFC400'] ['SR  ']
+        for ['DEV'] which has observations of 1 Countries ['USA'] 
+        driven in 1 road types ['Motorway'] under 1
+        weather conditions ['Dry'] with 1
+        Light Conditions ['Day'] having 2 Objects ['Not_Readable', 'US_Area_Speed_Limit_070'].
+        
+
+The recording Continuous_2011.07.01_at_17.19.25.rec has labels for ['MFC400'] ['SR  ']
+        for ['DEV'] which has observations of 1 Countries ['USA'] 
+        driven in 2 road types ['Motorway', 'Country_Road'] under 1
+        weather conditions ['Dry'] with 1
+        Light Conditions ['Day'] having 2 Objects ['Not_Readable', 'Other_Diamond_Sign_Similar'].
+        
+
+The recording Continuous_2011.07.01_at_17.53.11.rec has labels for ['MFC400'] ['SR  ']
+        for ['DEV'] which has observations of 1 Countries ['USA'] 
+        driven in 1 road types ['Motorway'] under 1
+        weather conditions ['Dry'] with 1
+        Light Conditions ['Day'] having 3 Objects ['Other_Diamond_Sign_Similar', 'US_Diamond_ArrowUp_Speed_Limit_055_Yellow', 'US_Speed_Limit_055'].
+        
+
+The recording Continuous_2011.07.01_at_18.01.15.rec has labels for ['MFC400'] ['SR  ']
+        for ['DEV'] which has observations of 1 Countries ['USA'] 
+        driven in 1 road types ['Highway'] under 1
+        weather conditions ['Rain'] with 1
+        Light Conditions ['Dusk'] having 1 Objects ['Other_Diamond_Sign_Similar'].
+        
+
+The recording Continuous_2011.07.03_at_17.25.08.rec has labels for ['MFC400'] ['SR  ']
+        for ['DEV'] which has observations of 1 Countries ['USA'] 
+        driven in 1 road types ['Motorway'] under 1
+        weather conditions ['Dry'] with 1
+        Light Conditions ['Day'] having 6 Objects ['Give_Way', 'Other_Diamond_Sign_Similar', 'Other_Supplementary_Sign', 'Prohib_Turn_Around', 'US_Diamond_Small_Road_From_Right_45_Degree_Yellow', 'US_Exit_035_MPH_Yellow'].
+        
+
+The recording Continuous_2011.07.04_at_14.29.10.rec has labels for ['MFC400'] ['SR  ']
+        for ['DEV'] which has observations of 1 Countries ['USA'] 
+        driven in 1 road types ['Motorway'] under 1
+        weather conditions ['Dry'] with 1
+        Light Conditions ['Day'] having 2 Objects ['Not_Readable', 'US_Ramp_045_MPH_Yellow'].
+        
+
+The recording Continuous_2011.07.04_at_14.37.07.rec has labels for ['MFC400'] ['SR  ']
+        for ['DEV'] which has observations of 1 Countries ['USA'] 
+        driven in 1 road types ['Motorway'] under 1
+        weather conditions ['Dry'] with 1
+        Light Conditions ['Day'] having 3 Objects ['Other_Diamond_Sign_Similar', 'US_Exit_035_MPH_Yellow', 'US_Speed_Limit_065'].
+        
+
+The recording Continuous_2011.07.04_at_19.14.47.rec has labels for ['MFC400'] ['SR  ']
+        for ['DEV'] which has observations of 1 Countries ['USA'] 
+        driven in 1 road types ['Country_Road'] under 1
+        weather conditions ['Dry'] with 1
+        Light Conditions ['Dusk'] having 3 Objects ['Other_Diamond_Sign_Similar', 'Stop', 'US_Speed_Limit_055'].
+        
+
+The recording Continuous_2011.07.04_at_19.28.05.rec has labels for ['MFC400'] ['SR  ']
+        for ['DEV'] which has observations of 1 Countries ['USA'] 
+        driven in 1 road types ['Country_Road'] under 1
+        weather conditions ['Dry'] with 1
+        Light Conditions ['Day'] having 4 Objects ['Not_Readable', 'Other_Diamond_Sign_Similar', 'Stop', 'US_Area_Speed_Limit_055'].
+        
+
+The recording Continuous_2011.07.04_at_19.32.57.rec has labels for ['MFC400'] ['SR  ']
+        for ['DEV'] which has observations of 1 Countries ['USA'] 
+        driven in 1 road types ['Country_Road'] under 1
+        weather conditions ['Dry'] with 1
+        Light Conditions ['Day'] having 1 Objects ['Stop'].
+        
+
+The recording Continuous_2011.07.04_at_22.01.27.rec has labels for ['MFC400'] ['SR  ']
+        for ['DEV'] which has observations of 1 Countries ['USA'] 
+        driven in 1 road types ['Motorway'] under 1
+        weather conditions ['Rain'] with 1
+        Light Conditions ['Night'] having 7 Objects ['Not_Readable', 'Other_Diamond_Sign_Similar', 'US_End_045_MPH', 'US_End_060_MPH', 'US_Exit_035_MPH_Yellow', 'US_Exit_040_MPH_Yellow', 'US_Speed_Limit_060'].
+        
+
+The recording Continuous_2011.07.04_at_22.13.36.rec has labels for ['MFC400'] ['SR  ']
+        for ['DEV'] which has observations of 1 Countries ['USA'] 
+        driven in 1 road types ['Country_Road'] under 1
+        weather conditions ['Rain'] with 1
+        Light Conditions ['Night'] having 7 Objects ['Not_Readable', 'Other_Diamond_Sign_Similar', 'Other_Round_Sign', 'Other_Supplementary_Sign', 'Stop', 'US_Speed_Limit_040', 'US_Town_Speed_Limit_045'].
+        
+
+The recording Continuous_2012.04.18_at_20.53.17.rec has labels for ['MFC400'] ['SR  ']
+        for ['DEV'] which has observations of 1 Countries ['France'] 
+        driven in 2 road types ['Country_Road', 'City'] under 1
+        weather conditions ['Dry'] with 1
+        Light Conditions ['Night'] having 20 Objects ['Dir_Down_Right', 'Dir_Right', 'Do_Not_Enter', 'Not_Readable', 'Only_Bicycle', 'Other_Diamond_Sign_Similar', 'Other_Rectangular_Sign_Similar', 'Other_Round_Sign', 'Other_Supplementary_Sign', 'Prohib_Parking', 'Prohib_Stopping', 'Prohib_Truck', 'Prohib_Turn_Left', 'Prohib_Turn_Right', 'Speed_Limit_030', 'Speed_Limit_070', 'Speed_Limit_End_070', 'Stop', 'Suppl_Explanation_Tex_rappel', 'Suppl_Restriction_Tex_Zone'].
+        
+
+The recording Continuous_2012.09.11_at_17.47.17.rec has labels for ['MFC400'] ['SR  ']
+        for ['DEV'] which has observations of 1 Countries ['Luxemburg'] 
+        driven in 1 road types ['Motorway'] under 1
+        weather conditions ['Rain'] with 1
+        Light Conditions ['Day'] having 16 Objects ['Danger_Double_Bend_Left_First', 'Danger_Traffic_Lights', 'Dir_Straight_Ahead', 'Give_Way', 'No_Passing_Truck', 'Not_Readable', 'Number_In_Circle', 'Other_Supplementary_Sign', 'Other_Triangular_Sign', 'Prohib_Truck', 'Speed_Limit_090', 'Speed_Limit_090_Inv', 'Speed_Limit_End_090_Thick_Circle', 'Suppl_Explanation_TexRegExp_100m', 'Suppl_Explanation_TexRegExp_250m', 'Suppl_Explanation_TexRegExp_2km_Inv'].
+        
+
+The recording Continuous_2012.09.11_at_19.29.46.rec has labels for ['MFC400'] ['SR  ']
+        for ['DEV'] which has observations of 1 Countries ['Belgium'] 
+        driven in 1 road types ['Motorway'] under 1
+        weather conditions ['Dry'] with 1
+        Light Conditions ['Day'] having 35 Objects ['Danger_Animal_Crossing_from_Right', 'Danger_Double_Bend_Left_First', 'Danger_Double_Bend_Right_First', 'Danger_Exclamation_Mark', 'Danger_Road_Works_Right', 'Danger_Splippery_Road', 'Dir_Down_Left', 'Dir_Down_Right', 'Dir_Straight_Ahead', 'Do_Not_Enter', 'General_End', 'Give_Way', 'Motor_Way_Green', 'No_Passing', 'No_Passing_Truck', 'Not_Readable', 'Other_Rectangular_Sign_Similar', 'Other_Supplementary_Sign', 'Other_Triangular_Sign', 'Priority_Road', 'Prohib_All', 'Prohib_Weight', 'Prohib_Width', 'Speed_Limit_050', 'Speed_Limit_060', 'Speed_Limit_060_Km_Below', 'Speed_Limit_070', 'Speed_Limit_070_Km_Below', 'Speed_Limit_080', 'Speed_Limit_080_Km_Below', 'Speed_Limit_090', 'Speed_Limit_100', 'Suppl_Explanation_Pic_ArrowUp_Tex_XXm_Pic_ArrowUp_Inv', 'Suppl_Explanation_Tex_XXkm_Inv', 'Suppl_Explanation_Tex_XXm_Inv'].
+        
+
+The recording Continuous_2012.09.12_at_22.25.49.rec has labels for ['MFC400'] ['SR  ']
+        for ['DEV'] which has observations of 1 Countries ['Great_Britain'] 
+        driven in 2 road types ['Highway', 'Country_Road'] under 2
+        weather conditions ['Rain', 'Dry'] with 1
+        Light Conditions ['Night'] having 30 Objects ['Danger_Bicycle_Crossing', 'Danger_Exclamation_Mark', 'Danger_Pedestrian', 'Danger_Road_Narrow_Both_Sides', 'Danger_Road_Narrow_Right_Side', 'Danger_Roundabout', 'Danger_Small_Road_From_Left', 'Danger_Small_Road_From_Left_45_Degree', 'Danger_Splippery_Road', 'Danger_Traffic_Lights_Embedded', 'Danger_Two_Way_Traffic', 'Dir_Down_Left', 'Dir_Left', 'Dir_Roundabout', 'Do_Not_Enter', 'General_End', 'General_End_Slash_60Deg', 'Give_Way', 'Give_Way_Give_Way', 'Motor_Way', 'Not_Readable', 'Only_Bicycle', 'Other_Round_Sign', 'Other_Supplementary_Sign', 'Other_Triangular_Sign', 'Prohib_Stopping', 'Prohib_Turn_Around', 'Prohib_Turn_Left', 'Speed_Limit_030', 'Speed_Limit_050'].
+        
+
+The recording Continuous_2012.09.13_at_10.18.31.rec has labels for ['MFC400'] ['SR  ']
+        for ['DEV'] which has observations of 1 Countries ['Great_Britain'] 
+        driven in 1 road types ['Motorway'] under 1
+        weather conditions ['Dry'] with 1
+        Light Conditions ['Day'] having 15 Objects ['Danger_Road_Works_Left', 'Danger_Traffic_Lights', 'Dir_Down_Right', 'Dir_Left', 'Do_Not_Enter', 'Not_Readable', 'Other_Round_Sign', 'Other_Supplementary_Sign', 'Speed_Limit_030', 'Speed_Limit_060', 'Speed_Limit_060_Km_Below', 'Speed_Limit_070', 'Speed_Limit_070_Km_Below', 'Speed_Limit_080', 'Speed_Limit_080_Km_Below'].
+        
+
+The recording Continuous_2012.09.13_at_12.19.46.rec has labels for ['MFC400'] ['SR  ']
+        for ['DEV'] which has observations of 1 Countries ['Great_Britain'] 
+        driven in 1 road types ['City'] under 1
+        weather conditions ['Dry'] with 1
+        Light Conditions ['Day'] having 10 Objects ['Danger_One_Bump', 'Danger_Road_Narrow_Right_Side', 'Danger_Road_Works_Left', 'Danger_Traffic_Lights_Embedded', 'Dir_Down_Left', 'Dir_Left', 'Do_Not_Enter', 'Other_Supplementary_Sign', 'Prohib_Turn_Right', 'Speed_Limit_030'].
+        
+
+The recording Continuous_2012.09.13_at_14.58.53.rec has labels for ['MFC400'] ['SR  ']
+        for ['DEV'] which has observations of 1 Countries ['Great_Britain'] 
+        driven in 3 road types ['Country_Road', 'City', 'Motorway'] under 1
+        weather conditions ['Dry'] with 1
+        Light Conditions ['Day'] having 32 Objects ['Danger_Bend_Left', 'Danger_Children', 'Danger_Cross_Road_Small_Road', 'Danger_Exclamation_Mark', 'Danger_Road_Narrow_Left_Side', 'Danger_Road_Narrow_Right_Side', 'Danger_Small_Road_From_Left', 'Danger_Traffic_Lights', 'Danger_Two_Way_Traffic', 'Dir_Down_Left', 'Dir_Left', 'Do_Not_Enter', 'General_End', 'Give_Way', 'Give_Way_Give_Way', 'Motor_Way', 'Motor_Way_End', 'Not_Readable', 'Other_Round_Sign', 'Other_Supplementary_Sign', 'Other_Triangular_Sign', 'Prohib_Bicycle', 'Prohib_Height', 'Prohib_Pedestrian', 'Prohib_Turn_Around', 'Prohib_Turn_Left', 'Speed_Limit_010', 'Speed_Limit_030', 'Speed_Limit_040', 'Speed_Limit_040_Inv', 'Speed_Limit_050', 'Speed_Limit_060_Km_Below'].
+        
+
+The recording Continuous_2012.09.14_at_21.29.45.rec has labels for ['MFC400'] ['SR  ']
+        for ['DEV'] which has observations of 1 Countries ['Germany'] 
+        driven in 1 road types ['Motorway'] under 1
+        weather conditions ['Dry'] with 1
+        Light Conditions ['Night'] having 31 Objects ['Danger_Animal_Crossing_From_Left', 'Danger_Animal_Crossing_from_Right', 'Danger_Bend_Right', 'Danger_Exclamation_Mark', 'Danger_Road_Works_Right', 'Danger_Traffic_Jam_Right', 'Danger_Traffic_Lights', 'Danger_Two_Bump', 'Dir_Left_Ahead', 'Dir_Straight_Ahead', 'General_End_Inv', 'Give_Way', 'Junction_Number', 'Motor_Way_End', 'No_Passing', 'No_Passing_Truck', 'No_Passing_Truck_Inv', 'Not_Readable', 'Other_Round_Sign', 'Prohib_All', 'Speed_Limit_060', 'Speed_Limit_060_Inv', 'Speed_Limit_080', 'Speed_Limit_100', 'Speed_Limit_100_Inv', 'Speed_Limit_120_Inv', 'Speed_Limit_End_080_Thick_Circle', 'Suppl_Explanation_Pic_ArrowUp_Tex_XXkm_Pic_ArrowUp', 'Suppl_Explanation_Pic_ArrowUp_Tex_XXm_Pic_ArrowUp', 'Suppl_Explanation_Tex_XXkm', 'Suppl_Restriction_Pic_Truck_Pic_Bus_Pic_CarTrailer'].
+        
+
+The recording Continuous_2014.11.25_at_17.45.07.rec has labels for ['MFC400'] ['SR  ']
+        for ['DEV'] which has observations of 1 Countries ['TAIWAN'] 
+        driven in 1 road types ['Highway'] under 1
+        weather conditions ['Dry'] with 1
+        Light Conditions ['Night'] having 16 Objects ['Danger_Hollow', 'Danger_Traffic_Lights', 'Danger_Wind_From_Left', 'Dir_Down_Right', 'Do_Not_Enter', 'Not_Readable', 'Other_Diamond_Sign_Similar', 'Other_Round_Sign', 'Other_Triangular_Sign', 'Prohib_Turn_Right', 'Speed_Limit_040', 'Speed_Limit_050', 'Speed_Limit_090', 'Speed_Limit_110', 'US_Chevron_Left_Yellow', 'US_Diamond_Pic_RoadWorks_Yellow'].
+        
+
+The recording Snapshot_2015.07.23_at_12.56.57.rec has labels for ['MFC400'] ['SR  ']
+        for ['DEV'] which has observations of 1 Countries ['Germany'] 
+        driven in 2 road types ['City', 'Highway'] under 1
+        weather conditions ['Dry'] with 1
+        Light Conditions ['Day'] having 15 Objects ['City', 'Danger_Traffic_Lights', 'Dir_Down_Right', 'Dir_Right_Ahead', 'Do_Not_Enter', 'Give_Way', 'High_Way_End', 'Motor_Way', 'Not_Readable', 'Priority_Road', 'Prohib_Stopping', 'Speed_Limit_060', 'Suppl_Explanation_TexRegExp_200m', 'Suppl_Explanation_TexRegExp_300m', 'Truck_Toll_Road_End'].
+        
+
+The recording Snapshot_2015.07.23_at_13.04.26.rec has labels for ['MFC400'] ['SR  ']
+        for ['DEV'] which has observations of 1 Countries ['Germany'] 
+        driven in 1 road types ['Highway'] under 1
+        weather conditions ['Dry'] with 1
+        Light Conditions ['Day'] having 12 Objects ['Danger_Road_Narrow_Left_Side', 'Dir_Right_Ahead', 'Dir_Straight_Ahead', 'Do_Not_Enter', 'Give_Way', 'No_Passing', 'Other_Triangular_Sign', 'Speed_Limit_080', 'Speed_Limit_100', 'Suppl_Explanation_TexRegExp_2000m', 'Suppl_Explanation_TexRegExp_200m', 'Truck_Toll_Road_End'].
+        
+
+The recording Snapshot_2015.07.24_at_08.42.42.rec has labels for ['MFC400'] ['SR  ']
+        for ['DEV'] which has observations of 1 Countries ['Germany'] 
+        driven in 2 road types ['Highway', 'City'] under 1
+        weather conditions ['Dry'] with 1
+        Light Conditions ['Day'] having 14 Objects ['City_End', 'Danger_Cross_Road_Small_Road', 'Dir_Right_Ahead', 'Dir_Straight_Ahead', 'Do_Not_Enter', 'Give_Way', 'High_Way', 'Other_Rectangular_Sign_Similar', 'Other_Supplementary_Sign', 'Priority_Road', 'Prohib_All', 'Prohib_Stopping', 'Speed_Limit_040', 'Suppl_Restriction_Pic_ArrowLeftCurved'].
+        
+
+The recording Snapshot_2015.07.24_at_10.09.34.rec has labels for ['MFC400'] ['SR  ']
+        for ['DEV'] which has observations of 1 Countries ['Germany'] 
+        driven in 1 road types ['Motorway'] under 1
+        weather conditions ['Dry'] with 1
+        Light Conditions ['Day'] having 11 Objects ['Dir_Down_Right', 'Do_Not_Enter', 'Give_Way', 'Other_Round_Sign', 'Priority_Road', 'Prohib_Truck', 'Prohib_Weight', 'Speed_Limit_070', 'Suppl_Explanation_TexRegExp_2600m', 'Suppl_Restriction_Pic_ArrowRightCurved', 'Truck_Toll_Road_End'].
+        
+
+The recording Snapshot_2015.11.09_at_11.32.35.rec has labels for ['MFC400'] ['SR  ']
+        for ['EVA'] which has observations of 1 Countries ['Austria'] 
+        driven in 1 road types ['City'] under 1
+        weather conditions ['Dry'] with 1
+        Light Conditions ['Day'] having 3 Objects ['Speed_Limit_030', 'Stop', 'Suppl_Restriction_Tex_ZONE'].
+        
+
+The recording Snapshot_2015.11.09_at_13.40.38.rec has labels for ['MFC400'] ['SR  ']
+        for ['EVA'] which has observations of 1 Countries ['Austria'] 
+        driven in 1 road types ['City'] under 1
+        weather conditions ['Dry'] with 1
+        Light Conditions ['Day'] having 3 Objects ['Speed_Limit_End_030_Zone_Slash_Offset', 'Stop', 'Suppl_Restriction_Pic_Slash_Tex_Zone'].
+        
+
