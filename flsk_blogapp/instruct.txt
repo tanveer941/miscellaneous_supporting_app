@@ -1,0 +1,8 @@
+function based flask
+normal routing
+use 'add_url_rule' for routing
+
+use variable as string formatting to display the name
+Hello world tt
+
+
