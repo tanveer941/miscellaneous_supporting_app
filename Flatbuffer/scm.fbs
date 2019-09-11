@@ -1,0 +1,24 @@
+table ReposList {
+    repos : [Repo];
+}
+
+table Repo {
+    id : long;
+    name : string;
+    full_name : string;
+    owner : User;
+    html_url : string;
+    description : string;
+    private : bool;
+    default_branch : string;
+    watchers : long;
+}
+
+table User {
+    login : string;
+    id : long;
+    type : string;
+    site_admin : bool;
+}
+
+root_type ReposList;

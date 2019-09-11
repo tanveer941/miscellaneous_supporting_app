@@ -1,0 +1,20 @@
+{
+  "repos": [
+    {
+      "id": 27149168,
+      "name": "acai",
+      "full_name": "google/acai",
+      "owner": {
+        "login": "google",
+        "id": 1342004,
+        "type": "Organization",
+        "site_admin": false
+      },
+      "private": false,
+      "html_url": "https://github.com/google/acai",
+      "description": "Testing library for JUnit4 and Guice.",
+      "watchers": 21,
+      "default_branch": "master"
+    }
+  ]
+}

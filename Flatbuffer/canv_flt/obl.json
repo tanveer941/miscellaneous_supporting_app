@@ -1,0 +1,201 @@
+{
+    "Sequence": [
+        {
+            "SequenceDetails": {
+                "FolderName": "2018.12.19_at_21.54.12_camera-mi_184_Right", 
+                "FileName": "SRCatalogue.h5"
+            },
+            "Labels": [
+                {
+                    "SourceType": "Image",
+                    "Devices": [
+                        {
+                            "Channels": [
+                                {
+                                    "ObjectLabels": [
+                                        {
+                                            "TimeStamp": 7675559817,
+                                            "FrameObjectLabels": [
+                                                {
+                                                    "category": "Car",
+                                                    "imagedata": "",
+                                                    "Hierarchy": "",
+                                                    "Trackid": 1,
+                                                    "yaw": 0,
+                                                    "imagewidth": 1176,
+                                                    "keypoints": {},
+                                                    "height": 103.0224438902743,
+                                                    "shape": {
+                                                        "Manually_Corrected": "YES",
+                                                        "Algo_Generated": "NO",
+                                                        "thickness": 1,
+                                                        "y": [
+                                                            202.02056884765625,
+                                                            202.02056884765625,
+                                                            305.04302978515625,
+                                                            305.04302978515625
+                                                        ],
+                                                        "x": [
+                                                            698.1428833007812,
+                                                            734.9395751953125,
+                                                            734.9395751953125,
+                                                            698.1428833007812
+                                                        ],
+                                                        "z": [],
+                                                        "type": "Box"
+                                                    },
+                                                    "width": 36.7967032967033,
+                                                    "length": 50,
+                                                    "imagename": "",
+                                                    "imageheight": 640,
+                                                    "baseimage": "",
+                                                    "attributes": {
+                                                    },
+                                                    "pitch": 0,
+                                                    "roll": 0,
+                                                    "imagetype": ""
+                                                },
+                                                {
+                                                    "category": "Car",
+                                                    "imagedata": "",
+                                                    "Hierarchy": "",
+                                                    "Trackid": 2,
+                                                    "yaw": 0,
+                                                    "imagewidth": 1176,
+                                                    "keypoints": {},
+                                                    "height": 177.06982543640902,
+                                                    "shape": {
+                                                        "Manually_Corrected": "YES",
+                                                        "Algo_Generated": "NO",
+                                                        "thickness": 1,
+                                                        "y": [
+                                                            171.435791015625,
+                                                            171.435791015625,
+                                                            348.505615234375,
+                                                            348.505615234375
+                                                        ],
+                                                        "x": [
+                                                            577.8076782226562,
+                                                            631.510986328125,
+                                                            631.510986328125,
+                                                            577.8076782226562
+                                                        ],
+                                                        "z": [],
+                                                        "type": "Box"
+                                                    },
+                                                    "width": 53.7032967032967,
+                                                    "length": 50,
+                                                    "imagename": "",
+                                                    "imageheight": 640,
+                                                    "baseimage": "",
+                                                    "attributes": {
+                                                    },
+                                                    "pitch": 0,
+                                                    "roll": 0,
+                                                    "imagetype": ""
+                                                }
+                                            ],
+                                            "FrameNumber": 10
+                                        },
+                                        {
+                                            "TimeStamp": 7675620095,
+                                            "FrameObjectLabels": [
+                                                {
+                                                    "category": "Car",
+                                                    "imagedata": "",
+                                                    "Hierarchy": "",
+                                                    "Trackid": 3,
+                                                    "yaw": 0,
+                                                    "imagewidth": 1176,
+                                                    "keypoints": {},
+                                                    "height": 103.0224438902743,
+                                                    "shape": {
+                                                        "Manually_Corrected": "NO",
+                                                        "Algo_Generated": "YES",
+                                                        "thickness": 0,
+                                                        "y": [
+                                                            203,
+                                                            203,
+                                                            306,
+                                                            306
+                                                        ],
+                                                        "x": [
+                                                            700,
+                                                            737,
+                                                            737,
+                                                            700
+                                                        ],
+                                                        "z": [],
+                                                        "type": "Box"
+                                                    },
+                                                    "width": 36.7967032967033,
+                                                    "length": 50,
+                                                    "imagename": "",
+                                                    "imageheight": 640,
+                                                    "baseimage": "",
+                                                    "attributes": {
+                                                    },
+                                                    "pitch": 0,
+                                                    "roll": 0,
+                                                    "imagetype": ""
+                                                }
+                                            ],
+                                            "FrameNumber": 11
+                                        },
+                                        {
+                                            "TimeStamp": 7675680373,
+                                            "FrameObjectLabels": [
+                                                {
+                                                    "category": "Car",
+                                                    "imagedata": "",
+                                                    "Hierarchy": "",
+                                                    "Trackid": 4,
+                                                    "yaw": 0,
+                                                    "imagewidth": 1176,
+                                                    "keypoints": {},
+                                                    "height": 103.0224438902743,
+                                                    "shape": {
+                                                        "Manually_Corrected": "NO",
+                                                        "Algo_Generated": "YES",
+                                                        "thickness": 0,
+                                                        "y": [
+                                                            203,
+                                                            203,
+                                                            308,
+                                                            308
+                                                        ],
+                                                        "x": [
+                                                            703,
+                                                            742,
+                                                            742,
+                                                            703
+                                                        ],
+                                                        "z": [],
+                                                        "type": "Box"
+                                                    },
+                                                    "width": 36.7967032967033,
+                                                    "length": 50,
+                                                    "imagename": "",
+                                                    "imageheight": 640,
+                                                    "baseimage": "",
+                                                    "attributes": {
+                                                    },
+                                                    "pitch": 0,
+                                                    "roll": 0,
+                                                    "imagetype": ""
+                                                }
+                                            ],
+                                            "FrameNumber": 12
+                                        }
+                                    ],
+                                    "ChannelName": "MFC4xxLongImageRight"
+                                }
+                            ],
+                            "DeviceName": "Camera"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

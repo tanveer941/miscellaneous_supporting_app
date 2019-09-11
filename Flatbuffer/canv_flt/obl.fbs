@@ -1,0 +1,76 @@
+table SequenceList {
+    Sequence : [Seq];
+}
+
+table Seq {
+    SequenceDetails : sequence_details;
+    Labels : [Lab];
+}
+
+table Lab {
+    SourceType : string;
+    Devices : [Dvc];
+}
+
+table Dvc {
+    DeviceName : string;
+    Channels : [Chnl];
+}
+
+table Chnl {
+    ChannelName : string;
+    ObjectLabels : [ObjLbl];
+}
+
+table ObjLbl {
+    TimeStamp : long;
+    FrameNumber : long;
+    FrameObjectLabels : [FrmObjLbl];
+}
+
+table FrmObjLbl {
+    imagewidth : long;
+    imageheight : long;
+    height : float;
+    width : float;
+    length : long;
+    pitch : long;
+    roll : long;
+    yaw : long;
+    Trackid : long;
+    category : string;
+    imagename : string;
+    baseimage : string;
+    imagedata : string;
+    Hierarchy : string;
+    imagetype : string;
+    ChannelName : string;
+    keypoints : keypnt;
+    shape : Shp;
+    attributes : Atr;
+}
+
+table Shp {
+    Manually_Corrected: string;
+    Algo_Generated: string;
+    thickness : long;
+    type : string;
+    y : [float32];
+    x : [float32];
+    z : [float32];
+}
+
+table Atr {
+
+}
+
+table keypnt {
+
+}
+
+table sequence_details {
+    FolderName : string;
+    FileName : string;
+}
+
+root_type SequenceList;
